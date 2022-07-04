@@ -1,0 +1,3 @@
+# Bazel ignore file (https://bazel.build/docs/bazelrc#bazel-behavior-files)
+.git
+experimental

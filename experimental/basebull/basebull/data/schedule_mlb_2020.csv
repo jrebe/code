@@ -1,0 +1,2431 @@
+AWAY,HOME,INT_DATE,FLOAT_TIME,DATETIME
+Nationals,Mets,0,0.549,0.549
+Tigers,Indians,0,0.549,0.549
+Royals,White Sox,0,0.590,0.590
+Cubs,Brewers,0,0.590,0.590
+Yankees,Orioles,0,0.628,0.628
+Red Sox,Blue Jays,0,0.651,0.651
+Twins,Athletics,0,0.672,0.672
+Rockies,Padres,0,0.674,0.674
+Giants,Dodgers,0,0.674,0.674
+Rangers,Mariners,0,0.674,0.674
+Cardinals,Reds,0,0.674,0.674
+Phillies,Marlins,0,0.674,0.674
+Pirates,Rays,0,0.674,0.674
+Angels,Astros,0,0.799,0.799
+Braves,Diamondbacks,0,0.924,0.924
+Red Sox,Blue Jays,1,0.797,1.797
+Phillies,Marlins,1,0.799,1.799
+Angels,Astros,1,0.840,1.840
+Braves,Diamondbacks,1,0.903,1.903
+Twins,Athletics,1,0.922,1.922
+Giants,Dodgers,1,0.924,1.924
+Rockies,Padres,1,0.924,1.924
+Rangers,Mariners,1,0.924,1.924
+Tigers,Indians,2,0.549,2.549
+Royals,White Sox,2,0.590,2.590
+Cardinals,Reds,2,0.590,2.590
+Red Sox,Blue Jays,2,0.630,2.630
+Pirates,Rays,2,0.632,2.632
+Nationals,Mets,2,0.670,2.670
+Yankees,Orioles,2,0.670,2.670
+Twins,Athletics,2,0.672,2.672
+Phillies,Marlins,2,0.757,2.757
+Angels,Astros,2,0.799,2.799
+Cubs,Brewers,2,0.799,2.799
+Braves,Diamondbacks,2,0.840,2.840
+Rockies,Padres,2,0.861,2.861
+Giants,Dodgers,2,0.882,2.882
+Rangers,Mariners,2,0.882,2.882
+Yankees,Orioles,3,0.545,3.545
+Red Sox,Blue Jays,3,0.547,3.547
+Nationals,Mets,3,0.549,3.549
+Cardinals,Reds,3,0.549,3.549
+Phillies,Marlins,3,0.549,3.549
+Tigers,Indians,3,0.549,3.549
+Pirates,Rays,3,0.549,3.549
+Angels,Astros,3,0.590,3.590
+Royals,White Sox,3,0.590,3.590
+Twins,Athletics,3,0.672,3.672
+Rockies,Padres,3,0.674,3.674
+Rangers,Mariners,3,0.674,3.674
+Braves,Diamondbacks,3,0.674,3.674
+Cubs,Brewers,3,0.798,3.798
+Royals,Tigers,4,0.549,4.549
+Pirates,Cubs,4,0.674,4.674
+White Sox,Indians,4,0.757,4.757
+Red Sox,Orioles,4,0.774,4.774
+Nationals,Marlins,4,0.778,4.778
+Reds,Blue Jays,4,0.797,4.797
+Phillies,Mets,4,0.799,4.799
+Yankees,Rays,4,0.799,4.799
+Cardinals,Brewers,4,0.819,4.819
+Giants,Diamondbacks,4,0.903,4.903
+Astros,Athletics,4,0.922,4.922
+Braves,Padres,4,0.924,4.924
+Rockies,Dodgers,4,0.924,4.924
+Twins,Mariners,4,0.924,4.924
+Angels,Rangers,5,0.670,5.670
+White Sox,Indians,5,0.757,5.757
+Red Sox,Orioles,5,0.774,5.774
+Nationals,Marlins,5,0.778,5.778
+Reds,Blue Jays,5,0.797,5.797
+Phillies,Mets,5,0.799,5.799
+Yankees,Rays,5,0.799,5.799
+Pirates,Cubs,5,0.819,5.819
+Cardinals,Brewers,5,0.819,5.819
+Giants,Diamondbacks,5,0.903,5.903
+Astros,Athletics,5,0.922,5.922
+Braves,Padres,5,0.924,5.924
+Rockies,Dodgers,5,0.924,5.924
+Twins,Mariners,5,0.924,5.924
+Red Sox,Orioles,6,0.545,6.545
+Royals,Tigers,6,0.549,6.549
+Phillies,Mets,6,0.549,6.549
+Nationals,Marlins,6,0.549,6.549
+White Sox,Indians,6,0.549,6.549
+Yankees,Rays,6,0.549,6.549
+Cardinals,Brewers,6,0.569,6.569
+Pirates,Cubs,6,0.597,6.597
+Rockies,Dodgers,6,0.632,6.632
+Astros,Athletics,6,0.651,6.651
+Braves,Padres,6,0.653,6.653
+Giants,Diamondbacks,6,0.653,6.653
+Reds,Blue Jays,6,0.672,6.672
+Twins,Mariners,6,0.674,6.674
+Angels,Rangers,6,0.837,6.837
+Mets,Nationals,7,0.545,7.545
+Blue Jays,Yankees,7,0.545,7.545
+Indians,Tigers,7,0.549,7.549
+Reds,Pirates,7,0.566,7.566
+White Sox,Red Sox,7,0.587,7.587
+Brewers,Phillies,7,0.628,7.628
+Mariners,Royals,7,0.670,7.670
+Athletics,Twins,7,0.674,7.674
+Orioles,Cardinals,7,0.677,7.677
+Angels,Rangers,7,0.837,7.837
+Indians,Tigers,8,0.549,8.549
+Diamondbacks,Cubs,8,0.597,8.597
+Padres,Rockies,8,0.674,8.674
+Dodgers,Giants,8,0.691,8.691
+Marlins,Braves,8,0.806,8.806
+Rays,Rangers,8,0.837,8.837
+Astros,Angels,8,0.922,8.922
+White Sox,Red Sox,9,0.545,9.545
+Blue Jays,Yankees,9,0.545,9.545
+Indians,Tigers,9,0.549,9.549
+Reds,Pirates,9,0.566,9.566
+Mariners,Royals,9,0.587,9.587
+Athletics,Twins,9,0.590,9.590
+Orioles,Cardinals,9,0.594,9.594
+Diamondbacks,Cubs,9,0.597,9.597
+Mets,Nationals,9,0.670,9.670
+Dodgers,Giants,9,0.670,9.670
+Brewers,Phillies,9,0.670,9.670
+Rays,Rangers,9,0.795,9.795
+Marlins,Braves,9,0.806,9.806
+Padres,Rockies,9,0.840,9.840
+Astros,Angels,9,0.920,9.920
+White Sox,Red Sox,10,0.545,10.545
+Blue Jays,Yankees,10,0.545,10.545
+Brewers,Phillies,10,0.545,10.545
+Indians,Tigers,10,0.549,10.549
+Marlins,Braves,10,0.556,10.556
+Mets,Nationals,10,0.566,10.566
+Reds,Pirates,10,0.566,10.566
+Mariners,Royals,10,0.587,10.587
+Athletics,Twins,10,0.590,10.590
+Orioles,Cardinals,10,0.594,10.594
+Diamondbacks,Cubs,10,0.597,10.597
+Rays,Rangers,10,0.608,10.608
+Padres,Rockies,10,0.632,10.632
+Astros,Angels,10,0.672,10.672
+Dodgers,Giants,10,0.859,10.859
+Mariners,White Sox,11,0.590,11.590
+Indians,Twins,11,0.590,11.590
+Orioles,Yankees,11,0.774,11.774
+Brewers,Reds,11,0.778,11.778
+Marlins,Nationals,11,0.795,11.795
+Blue Jays,Phillies,11,0.795,11.795
+Cubs,Pirates,11,0.795,11.795
+Rays,Red Sox,11,0.799,11.799
+Padres,Braves,11,0.806,11.806
+Dodgers,Cardinals,11,0.823,11.823
+Tigers,Royals,11,0.837,11.837
+Diamondbacks,Giants,11,0.906,11.906
+Athletics,Angels,11,0.922,11.922
+Indians,Twins,12,0.549,12.549
+Mariners,White Sox,12,0.590,12.590
+Orioles,Yankees,12,0.774,12.774
+Brewers,Reds,12,0.778,12.778
+Marlins,Nationals,12,0.795,12.795
+Blue Jays,Phillies,12,0.795,12.795
+Cubs,Pirates,12,0.795,12.795
+Rays,Red Sox,12,0.799,12.799
+Padres,Braves,12,0.806,12.806
+Dodgers,Cardinals,12,0.823,12.823
+Tigers,Royals,12,0.837,12.837
+Mets,Astros,12,0.840,12.840
+Rangers,Rockies,12,0.861,12.861
+Diamondbacks,Giants,12,0.906,12.906
+Athletics,Angels,12,0.922,12.922
+Padres,Braves,13,0.514,13.514
+Orioles,Yankees,13,0.524,13.524
+Rays,Red Sox,13,0.545,13.545
+Indians,Twins,13,0.549,13.549
+Tigers,Royals,13,0.566,13.566
+Mariners,White Sox,13,0.590,13.590
+Rangers,Rockies,13,0.632,13.632
+Marlins,Nationals,13,0.670,13.670
+Cubs,Pirates,13,0.795,13.795
+Dodgers,Cardinals,13,0.823,13.823
+Mets,Astros,13,0.840,13.840
+Diamondbacks,Giants,13,0.906,13.906
+Athletics,Angels,13,0.922,13.922
+Cubs,Pirates,14,0.524,14.524
+Orioles,Yankees,14,0.545,14.545
+Dodgers,Cardinals,14,0.552,14.552
+Diamondbacks,Giants,14,0.656,14.656
+Rays,Indians,14,0.757,14.757
+Phillies,Reds,14,0.778,14.778
+Braves,Marlins,14,0.778,14.778
+Royals,Blue Jays,14,0.797,14.797
+Mets,Brewers,14,0.840,14.840
+Red Sox,Mariners,14,0.924,14.924
+Cardinals,Cubs,15,0.597,15.597
+Pirates,Orioles,15,0.795,15.795
+Royals,Blue Jays,15,0.797,15.797
+Angels,Tigers,15,0.799,15.799
+Phillies,Reds,15,0.799,15.799
+Braves,Marlins,15,0.799,15.799
+Rays,Indians,15,0.799,15.799
+Astros,Rangers,15,0.837,15.837
+Twins,White Sox,15,0.840,15.840
+Mets,Brewers,15,0.840,15.840
+Rockies,Diamondbacks,15,0.903,15.903
+Yankees,Athletics,15,0.922,15.922
+Giants,Padres,15,0.924,15.924
+Nationals,Dodgers,15,0.924,15.924
+Red Sox,Mariners,15,0.924,15.924
+Angels,Tigers,16,0.549,16.549
+Twins,White Sox,16,0.590,16.590
+Royals,Blue Jays,16,0.630,16.630
+Cardinals,Cubs,16,0.670,16.670
+Pirates,Orioles,16,0.670,16.670
+Phillies,Reds,16,0.674,16.674
+Braves,Marlins,16,0.757,16.757
+Rays,Indians,16,0.757,16.757
+Astros,Rangers,16,0.795,16.795
+Mets,Brewers,16,0.799,16.799
+Rockies,Diamondbacks,16,0.840,16.840
+Giants,Padres,16,0.861,16.861
+Yankees,Athletics,16,0.880,16.880
+Nationals,Dodgers,16,0.882,16.882
+Red Sox,Mariners,16,0.882,16.882
+Pirates,Orioles,17,0.545,17.545
+Royals,Blue Jays,17,0.547,17.547
+Angels,Tigers,17,0.549,17.549
+Phillies,Reds,17,0.549,17.549
+Braves,Marlins,17,0.549,17.549
+Rays,Indians,17,0.549,17.549
+Twins,White Sox,17,0.590,17.590
+Mets,Brewers,17,0.590,17.590
+Astros,Rangers,17,0.608,17.608
+Yankees,Athletics,17,0.672,17.672
+Giants,Padres,17,0.674,17.674
+Nationals,Dodgers,17,0.674,17.674
+Red Sox,Mariners,17,0.674,17.674
+Rockies,Diamondbacks,17,0.674,17.674
+Cardinals,Cubs,17,0.798,17.798
+Twins,Blue Jays,18,0.797,18.797
+Braves,Mets,18,0.799,18.799
+Astros,Rays,18,0.799,18.799
+Phillies,Brewers,18,0.819,18.819
+White Sox,Royals,18,0.837,18.837
+Yankees,Rangers,18,0.837,18.837
+Red Sox,Athletics,18,0.922,18.922
+Nationals,Mariners,18,0.924,18.924
+Tigers,Indians,19,0.757,19.757
+Cubs,Orioles,19,0.774,19.774
+Nationals,Mariners,19,0.778,19.778
+Giants,Reds,19,0.778,19.778
+Angels,Marlins,19,0.778,19.778
+Twins,Blue Jays,19,0.797,19.797
+Braves,Mets,19,0.799,19.799
+Astros,Rays,19,0.799,19.799
+Phillies,Brewers,19,0.819,19.819
+White Sox,Royals,19,0.837,19.837
+Yankees,Rangers,19,0.837,19.837
+Pirates,Diamondbacks,19,0.903,19.903
+Red Sox,Athletics,19,0.922,19.922
+Rockies,Padres,19,0.924,19.924
+Cardinals,Dodgers,19,0.924,19.924
+Red Sox,Athletics,20,0.651,20.651
+Yankees,Rangers,20,0.670,20.670
+Tigers,Indians,20,0.757,20.757
+Cubs,Orioles,20,0.774,20.774
+Giants,Reds,20,0.778,20.778
+Angels,Marlins,20,0.778,20.778
+Twins,Blue Jays,20,0.797,20.797
+Braves,Mets,20,0.799,20.799
+Astros,Rays,20,0.799,20.799
+Phillies,Brewers,20,0.819,20.819
+White Sox,Royals,20,0.837,20.837
+Pirates,Diamondbacks,20,0.903,20.903
+Rockies,Padres,20,0.924,20.924
+Cardinals,Dodgers,20,0.924,20.924
+Giants,Reds,21,0.524,21.524
+Tigers,Indians,21,0.549,21.549
+Phillies,Brewers,21,0.569,21.569
+Rockies,Padres,21,0.653,21.653
+Pirates,Diamondbacks,21,0.653,21.653
+Cubs,Nationals,21,0.795,21.795
+Braves,Mets,21,0.799,21.799
+Rangers,White Sox,21,0.840,21.840
+Mariners,Athletics,21,0.922,21.922
+Cardinals,Dodgers,21,0.924,21.924
+Cubs,Nationals,22,0.795,22.795
+Reds,Yankees,22,0.795,22.795
+Marlins,Phillies,22,0.795,22.795
+Indians,Red Sox,22,0.799,22.799
+Brewers,Mets,22,0.799,22.799
+Blue Jays,Rays,22,0.799,22.799
+Giants,Braves,22,0.806,22.806
+Orioles,Royals,22,0.837,22.837
+Angels,Astros,22,0.840,22.840
+Rangers,White Sox,22,0.840,22.840
+Tigers,Twins,22,0.840,22.840
+Cardinals,Rockies,22,0.861,22.861
+Mariners,Athletics,22,0.922,22.922
+Pirates,Dodgers,22,0.924,22.924
+Reds,Yankees,23,0.545,23.545
+Orioles,Royals,23,0.587,23.587
+Tigers,Twins,23,0.590,23.590
+Rangers,White Sox,23,0.590,23.590
+Indians,Red Sox,23,0.670,23.670
+Cubs,Nationals,23,0.670,23.670
+Marlins,Phillies,23,0.670,23.670
+Mariners,Athletics,23,0.672,23.672
+Blue Jays,Rays,23,0.757,23.757
+Angels,Astros,23,0.799,23.799
+Brewers,Mets,23,0.799,23.799
+Padres,Diamondbacks,23,0.799,23.799
+Giants,Braves,23,0.806,23.806
+Cardinals,Rockies,23,0.840,23.840
+Pirates,Dodgers,23,0.882,23.882
+Indians,Red Sox,24,0.545,24.545
+Reds,Yankees,24,0.545,24.545
+Marlins,Phillies,24,0.545,24.545
+Blue Jays,Rays,24,0.549,24.549
+Giants,Braves,24,0.556,24.556
+Cubs,Nationals,24,0.566,24.566
+Orioles,Royals,24,0.587,24.587
+Angels,Astros,24,0.590,24.590
+Tigers,Twins,24,0.590,24.590
+Rangers,White Sox,24,0.590,24.590
+Cardinals,Rockies,24,0.632,24.632
+Mariners,Athletics,24,0.672,24.672
+Pirates,Dodgers,24,0.674,24.674
+Padres,Diamondbacks,24,0.674,24.674
+Brewers,Mets,24,0.798,24.798
+Indians,Red Sox,25,0.462,25.462
+Yankees,Tigers,25,0.778,25.778
+Rays,Astros,25,0.799,25.799
+Mariners,Twins,25,0.819,25.819
+Reds,Cardinals,25,0.823,25.823
+Royals,White Sox,25,0.840,25.840
+Orioles,Angels,25,0.922,25.922
+Athletics,Indians,26,0.757,26.757
+Yankees,Tigers,26,0.778,26.778
+Dodgers,Nationals,26,0.795,26.795
+Rangers,Phillies,26,0.795,26.795
+Brewers,Pirates,26,0.795,26.795
+Blue Jays,Red Sox,26,0.799,26.799
+Marlins,Mets,26,0.799,26.799
+Diamondbacks,Braves,26,0.806,26.806
+Mariners,Twins,26,0.819,26.819
+Padres,Cubs,26,0.819,26.819
+Reds,Cardinals,26,0.823,26.823
+Rays,Astros,26,0.840,26.840
+Royals,White Sox,26,0.840,26.840
+Rockies,Giants,26,0.906,26.906
+Orioles,Angels,26,0.922,26.922
+Rangers,Phillies,27,0.545,27.545
+Reds,Cardinals,27,0.552,27.552
+Royals,White Sox,27,0.590,27.590
+Orioles,Angels,27,0.672,27.672
+Athletics,Indians,27,0.757,27.757
+Yankees,Tigers,27,0.778,27.778
+Dodgers,Nationals,27,0.795,27.795
+Brewers,Pirates,27,0.795,27.795
+Blue Jays,Red Sox,27,0.799,27.799
+Marlins,Mets,27,0.799,27.799
+Diamondbacks,Braves,27,0.806,27.806
+Mariners,Twins,27,0.819,27.819
+Padres,Cubs,27,0.819,27.819
+Rays,Astros,27,0.840,27.840
+Rockies,Giants,27,0.906,27.906
+Diamondbacks,Braves,28,0.514,28.514
+Brewers,Pirates,28,0.524,28.524
+Dodgers,Nationals,28,0.545,28.545
+Yankees,Tigers,28,0.549,28.549
+Mariners,Twins,28,0.549,28.549
+Athletics,Indians,28,0.549,28.549
+Rays,Astros,28,0.590,28.590
+Padres,Cubs,28,0.597,28.597
+Rockies,Giants,28,0.656,28.656
+Blue Jays,Red Sox,28,0.799,28.799
+Marlins,Mets,28,0.799,28.799
+White Sox,Angels,28,0.922,28.922
+Phillies,Cubs,29,0.597,29.597
+Indians,Yankees,29,0.795,29.795
+Dodgers,Pirates,29,0.795,29.795
+Blue Jays,Orioles,29,0.795,29.795
+Padres,Tigers,29,0.799,29.799
+Diamondbacks,Reds,29,0.799,29.799
+Royals,Rays,29,0.799,29.799
+Mets,Braves,29,0.806,29.806
+Mariners,Rangers,29,0.837,29.837
+Athletics,Astros,29,0.840,29.840
+Red Sox,Twins,29,0.840,29.840
+Marlins,Cardinals,29,0.844,29.844
+Brewers,Rockies,29,0.861,29.861
+White Sox,Angels,29,0.922,29.922
+Nationals,Giants,29,0.927,29.927
+Indians,Yankees,30,0.545,30.545
+Padres,Tigers,30,0.549,30.549
+Royals,Rays,30,0.549,30.549
+Red Sox,Twins,30,0.590,30.590
+Marlins,Cardinals,30,0.594,30.594
+Phillies,Cubs,30,0.597,30.597
+Dodgers,Pirates,30,0.670,30.670
+Blue Jays,Orioles,30,0.670,30.670
+Athletics,Astros,30,0.674,30.674
+Diamondbacks,Reds,30,0.674,30.674
+Mariners,Rangers,30,0.795,30.795
+Mets,Braves,30,0.806,30.806
+Brewers,Rockies,30,0.840,30.840
+Nationals,Giants,30,0.878,30.878
+White Sox,Angels,30,0.880,30.880
+Indians,Yankees,31,0.545,31.545
+Blue Jays,Orioles,31,0.545,31.545
+Padres,Tigers,31,0.549,31.549
+Royals,Rays,31,0.549,31.549
+Dodgers,Pirates,31,0.566,31.566
+Athletics,Astros,31,0.590,31.590
+Red Sox,Twins,31,0.590,31.590
+Diamondbacks,Reds,31,0.590,31.590
+Marlins,Cardinals,31,0.594,31.594
+Phillies,Cubs,31,0.597,31.597
+Mariners,Rangers,31,0.608,31.608
+Brewers,Rockies,31,0.632,31.632
+Nationals,Giants,31,0.670,31.670
+White Sox,Angels,31,0.672,31.672
+Mets,Braves,31,0.798,31.798
+Royals,Orioles,32,0.774,32.774
+Braves,Reds,32,0.778,32.778
+Red Sox,Blue Jays,32,0.797,32.797
+Indians,Rays,32,0.799,32.799
+Pirates,Cubs,32,0.819,32.819
+Athletics,Rangers,32,0.837,32.837
+Phillies,Giants,32,0.906,32.906
+Cardinals,Padres,32,0.924,32.924
+Tigers,Yankees,33,0.774,33.774
+Royals,Orioles,33,0.774,33.774
+Braves,Reds,33,0.778,33.778
+Red Sox,Blue Jays,33,0.797,33.797
+Mets,Marlins,33,0.799,33.799
+Indians,Rays,33,0.799,33.799
+Pirates,Cubs,33,0.819,33.819
+Nationals,Brewers,33,0.819,33.819
+Athletics,Rangers,33,0.837,33.837
+White Sox,Rockies,33,0.861,33.861
+Astros,Diamondbacks,33,0.903,33.903
+Phillies,Giants,33,0.906,33.906
+Cardinals,Padres,33,0.924,33.924
+Twins,Dodgers,33,0.924,33.924
+Angels,Mariners,33,0.924,33.924
+Braves,Reds,34,0.524,34.524
+Indians,Rays,34,0.549,34.549
+Athletics,Rangers,34,0.587,34.587
+Pirates,Cubs,34,0.597,34.597
+White Sox,Rockies,34,0.632,34.632
+Astros,Diamondbacks,34,0.653,34.653
+Phillies,Giants,34,0.656,34.656
+Tigers,Yankees,34,0.774,34.774
+Royals,Orioles,34,0.774,34.774
+Red Sox,Blue Jays,34,0.797,34.797
+Mets,Marlins,34,0.799,34.799
+Nationals,Brewers,34,0.819,34.819
+Cardinals,Padres,34,0.924,34.924
+Twins,Dodgers,34,0.924,34.924
+Angels,Mariners,34,0.924,34.924
+Royals,Orioles,35,0.545,35.545
+Nationals,Brewers,35,0.569,35.569
+Cardinals,Padres,35,0.653,35.653
+Mets,Marlins,35,0.674,35.674
+Tigers,Yankees,35,0.774,35.774
+Cubs,Diamondbacks,35,0.903,35.903
+Rays,Athletics,35,0.922,35.922
+Astros,Mariners,35,0.924,35.924
+Reds,Nationals,36,0.795,36.795
+Rockies,Phillies,36,0.795,36.795
+Yankees,Blue Jays,36,0.797,36.797
+Rangers,Red Sox,36,0.799,36.799
+Braves,Mets,36,0.799,36.799
+Pirates,Marlins,36,0.799,36.799
+Giants,Indians,36,0.799,36.799
+Tigers,Royals,36,0.837,36.837
+Orioles,White Sox,36,0.840,36.840
+Cardinals,Brewers,36,0.840,36.840
+Cubs,Diamondbacks,36,0.903,36.903
+Twins,Angels,36,0.922,36.922
+Rays,Athletics,36,0.922,36.922
+Dodgers,Padres,36,0.924,36.924
+Astros,Mariners,36,0.924,36.924
+Reds,Nationals,37,0.545,37.545
+Rangers,Red Sox,37,0.545,37.545
+Orioles,White Sox,37,0.590,37.590
+Yankees,Blue Jays,37,0.630,37.630
+Rockies,Phillies,37,0.670,37.670
+Rays,Athletics,37,0.672,37.672
+Pirates,Marlins,37,0.757,37.757
+Giants,Indians,37,0.757,37.757
+Tigers,Royals,37,0.795,37.795
+Braves,Mets,37,0.799,37.799
+Cardinals,Brewers,37,0.799,37.799
+Cubs,Diamondbacks,37,0.840,37.840
+Dodgers,Padres,37,0.861,37.861
+Twins,Angels,37,0.880,37.880
+Astros,Mariners,37,0.882,37.882
+Rangers,Red Sox,38,0.545,38.545
+Yankees,Blue Jays,38,0.547,38.547
+Braves,Mets,38,0.549,38.549
+Pirates,Marlins,38,0.549,38.549
+Giants,Indians,38,0.549,38.549
+Reds,Nationals,38,0.566,38.566
+Rockies,Phillies,38,0.587,38.587
+Tigers,Royals,38,0.587,38.587
+Orioles,White Sox,38,0.590,38.590
+Twins,Angels,38,0.672,38.672
+Rays,Athletics,38,0.672,38.672
+Dodgers,Padres,38,0.674,38.674
+Astros,Mariners,38,0.674,38.674
+Cubs,Diamondbacks,38,0.674,38.674
+Cardinals,Brewers,38,0.798,38.798
+Rangers,Indians,39,0.757,39.757
+Brewers,Marlins,39,0.778,39.778
+Braves,Phillies,39,0.795,39.795
+Orioles,Blue Jays,39,0.797,39.797
+Rockies,Tigers,39,0.799,39.799
+Reds,Mets,39,0.799,39.799
+Giants,Twins,39,0.819,39.819
+Padres,Cardinals,39,0.823,39.823
+Astros,Royals,39,0.837,39.837
+Mariners,Athletics,39,0.922,39.922
+Cubs,Dodgers,39,0.924,39.924
+Rangers,Indians,40,0.757,40.757
+Pirates,Yankees,40,0.774,40.774
+Brewers,Marlins,40,0.778,40.778
+Diamondbacks,Nationals,40,0.795,40.795
+Braves,Phillies,40,0.795,40.795
+Orioles,Blue Jays,40,0.797,40.797
+Rockies,Tigers,40,0.799,40.799
+Angels,Red Sox,40,0.799,40.799
+Reds,Mets,40,0.799,40.799
+Giants,Twins,40,0.819,40.819
+Padres,Cardinals,40,0.823,40.823
+Astros,Royals,40,0.837,40.837
+Rays,White Sox,40,0.840,40.840
+Mariners,Athletics,40,0.922,40.922
+Cubs,Dodgers,40,0.924,40.924
+Reds,Mets,41,0.507,41.507
+Orioles,Blue Jays,41,0.526,41.526
+Rockies,Tigers,41,0.549,41.549
+Giants,Twins,41,0.549,41.549
+Padres,Cardinals,41,0.552,41.552
+Astros,Royals,41,0.587,41.587
+Mariners,Athletics,41,0.651,41.651
+Rangers,Indians,41,0.757,41.757
+Pirates,Yankees,41,0.774,41.774
+Brewers,Marlins,41,0.778,41.778
+Diamondbacks,Nationals,41,0.795,41.795
+Braves,Phillies,41,0.795,41.795
+Angels,Red Sox,41,0.799,41.799
+Rays,White Sox,41,0.840,41.840
+Cubs,Dodgers,41,0.875,41.875
+Diamondbacks,Nationals,42,0.545,42.545
+Rangers,Indians,42,0.549,42.549
+Rays,White Sox,42,0.590,42.590
+Brewers,Marlins,42,0.778,42.778
+Angels,Red Sox,42,0.799,42.799
+Mariners,Astros,42,0.840,42.840
+Reds,Rockies,42,0.861,42.861
+Nationals,Cubs,43,0.597,43.597
+Red Sox,Yankees,43,0.795,43.795
+Phillies,Pirates,43,0.795,43.795
+Angels,Orioles,43,0.795,43.795
+Indians,Tigers,43,0.799,43.799
+Rangers,Rays,43,0.799,43.799
+Marlins,Braves,43,0.806,43.806
+Mariners,Astros,43,0.840,43.840
+Royals,Twins,43,0.840,43.840
+Diamondbacks,Brewers,43,0.840,43.840
+Mets,Cardinals,43,0.844,43.844
+Reds,Rockies,43,0.861,43.861
+Blue Jays,Athletics,43,0.922,43.922
+Padres,Dodgers,43,0.924,43.924
+White Sox,Giants,43,0.927,43.927
+Mets,Cardinals,44,0.594,44.594
+Nationals,Cubs,44,0.597,44.597
+Red Sox,Yankees,44,0.670,44.670
+Angels,Orioles,44,0.670,44.670
+Indians,Tigers,44,0.674,44.674
+Rangers,Rays,44,0.757,44.757
+Phillies,Pirates,44,0.795,44.795
+Mariners,Astros,44,0.799,44.799
+Royals,Twins,44,0.799,44.799
+Diamondbacks,Brewers,44,0.799,44.799
+Marlins,Braves,44,0.806,44.806
+Reds,Rockies,44,0.840,44.840
+White Sox,Giants,44,0.878,44.878
+Blue Jays,Athletics,44,0.880,44.880
+Padres,Dodgers,44,0.882,44.882
+Angels,Orioles,45,0.545,45.545
+Indians,Tigers,45,0.549,45.549
+Rangers,Rays,45,0.549,45.549
+Marlins,Braves,45,0.556,45.556
+Phillies,Pirates,45,0.566,45.566
+Mariners,Astros,45,0.590,45.590
+Royals,Twins,45,0.590,45.590
+Diamondbacks,Brewers,45,0.590,45.590
+Mets,Cardinals,45,0.594,45.594
+Nationals,Cubs,45,0.597,45.597
+Reds,Rockies,45,0.632,45.632
+White Sox,Giants,45,0.670,45.670
+Blue Jays,Athletics,45,0.672,45.672
+Padres,Dodgers,45,0.674,45.674
+Red Sox,Yankees,45,0.798,45.798
+Indians,Orioles,46,0.774,46.774
+Marlins,Reds,46,0.778,46.778
+Brewers,Cubs,46,0.795,46.795
+Cardinals,Pirates,46,0.795,46.795
+Twins,Tigers,46,0.799,46.799
+Yankees,Rays,46,0.799,46.799
+Blue Jays,Rangers,46,0.837,46.837
+Royals,Astros,46,0.840,46.840
+Giants,Rockies,46,0.861,46.861
+Mets,Diamondbacks,46,0.903,46.903
+Nationals,Angels,46,0.922,46.922
+White Sox,Padres,46,0.924,46.924
+Indians,Orioles,47,0.774,47.774
+Marlins,Reds,47,0.778,47.778
+Dodgers,Phillies,47,0.795,47.795
+Cardinals,Pirates,47,0.795,47.795
+Twins,Tigers,47,0.799,47.799
+Yankees,Rays,47,0.799,47.799
+Red Sox,Braves,47,0.806,47.806
+Brewers,Cubs,47,0.819,47.819
+Blue Jays,Rangers,47,0.837,47.837
+Royals,Astros,47,0.840,47.840
+Giants,Rockies,47,0.861,47.861
+Mets,Diamondbacks,47,0.903,47.903
+Nationals,Angels,47,0.922,47.922
+White Sox,Padres,47,0.924,47.924
+Athletics,Mariners,47,0.924,47.924
+Marlins,Reds,48,0.524,48.524
+Cardinals,Pirates,48,0.524,48.524
+Indians,Orioles,48,0.524,48.524
+Brewers,Cubs,48,0.597,48.597
+White Sox,Padres,48,0.653,48.653
+Mets,Diamondbacks,48,0.653,48.653
+Dodgers,Phillies,48,0.795,48.795
+Twins,Tigers,48,0.799,48.799
+Yankees,Rays,48,0.799,48.799
+Red Sox,Braves,48,0.806,48.806
+Blue Jays,Rangers,48,0.837,48.837
+Royals,Astros,48,0.840,48.840
+Giants,Rockies,48,0.861,48.861
+Nationals,Angels,48,0.922,48.922
+Athletics,Mariners,48,0.924,48.924
+Dodgers,Phillies,49,0.545,49.545
+Twins,Tigers,49,0.549,49.549
+Giants,Rockies,49,0.632,49.632
+Brewers,Reds,49,0.778,49.778
+Yankees,Rays,49,0.799,49.799
+Red Sox,Rangers,49,0.837,49.837
+Blue Jays,White Sox,49,0.840,49.840
+Nationals,Diamondbacks,49,0.903,49.903
+Cubs,Padres,49,0.924,49.924
+Athletics,Mariners,49,0.924,49.924
+Cardinals,Phillies,50,0.795,50.795
+Pirates,Mets,50,0.799,50.799
+Brewers,Reds,50,0.799,50.799
+Rockies,Marlins,50,0.799,50.799
+Twins,Indians,50,0.799,50.799
+Orioles,Rays,50,0.799,50.799
+Dodgers,Royals,50,0.837,50.837
+Red Sox,Rangers,50,0.837,50.837
+Blue Jays,White Sox,50,0.840,50.840
+Yankees,Astros,50,0.840,50.840
+Nationals,Diamondbacks,50,0.903,50.903
+Athletics,Angels,50,0.922,50.922
+Cubs,Padres,50,0.924,50.924
+Tigers,Mariners,50,0.924,50.924
+Braves,Giants,50,0.927,50.927
+Brewers,Reds,51,0.549,51.549
+Braves,Giants,51,0.670,51.670
+Yankees,Astros,51,0.670,51.670
+Cardinals,Phillies,51,0.753,51.753
+Rockies,Marlins,51,0.757,51.757
+Twins,Indians,51,0.757,51.757
+Orioles,Rays,51,0.757,51.757
+Dodgers,Royals,51,0.795,51.795
+Red Sox,Rangers,51,0.795,51.795
+Pirates,Mets,51,0.799,51.799
+Blue Jays,White Sox,51,0.799,51.799
+Nationals,Diamondbacks,51,0.840,51.840
+Cubs,Padres,51,0.861,51.861
+Athletics,Angels,51,0.880,51.880
+Tigers,Mariners,51,0.882,51.882
+Cardinals,Phillies,52,0.545,52.545
+Pirates,Mets,52,0.549,52.549
+Brewers,Reds,52,0.549,52.549
+Rockies,Marlins,52,0.549,52.549
+Twins,Indians,52,0.549,52.549
+Orioles,Rays,52,0.549,52.549
+Dodgers,Royals,52,0.587,52.587
+Blue Jays,White Sox,52,0.590,52.590
+Red Sox,Rangers,52,0.608,52.608
+Braves,Giants,52,0.670,52.670
+Athletics,Angels,52,0.672,52.672
+Cubs,Padres,52,0.674,52.674
+Tigers,Mariners,52,0.674,52.674
+Nationals,Diamondbacks,52,0.674,52.674
+Yankees,Astros,52,0.798,52.798
+Astros,Blue Jays,53,0.672,53.672
+Pirates,Mets,53,0.799,53.799
+Orioles,Twins,53,0.819,53.819
+Braves,Cardinals,53,0.837,53.837
+Angels,Royals,53,0.837,53.837
+Phillies,Dodgers,53,0.924,53.924
+Reds,Indians,54,0.757,54.757
+Padres,Marlins,54,0.778,54.778
+Mariners,Nationals,54,0.795,54.795
+Cubs,Pirates,54,0.795,54.795
+Astros,Blue Jays,54,0.797,54.797
+Rays,Red Sox,54,0.799,54.799
+Diamondbacks,Mets,54,0.799,54.799
+Orioles,Twins,54,0.819,54.819
+Yankees,Brewers,54,0.819,54.819
+Braves,Cardinals,54,0.823,54.823
+Angels,Royals,54,0.837,54.837
+Rockies,White Sox,54,0.840,54.840
+Tigers,Giants,54,0.906,54.906
+Rangers,Athletics,54,0.922,54.922
+Phillies,Dodgers,54,0.924,54.924
+Orioles,Twins,55,0.549,55.549
+Reds,Indians,55,0.549,55.549
+Rockies,White Sox,55,0.590,55.590
+Tigers,Giants,55,0.656,55.656
+Padres,Marlins,55,0.778,55.778
+Mariners,Nationals,55,0.795,55.795
+Cubs,Pirates,55,0.795,55.795
+Astros,Blue Jays,55,0.797,55.797
+Rays,Red Sox,55,0.799,55.799
+Diamondbacks,Mets,55,0.799,55.799
+Braves,Cardinals,55,0.823,55.823
+Angels,Royals,55,0.837,55.837
+Yankees,Brewers,55,0.840,55.840
+Rangers,Athletics,55,0.922,55.922
+Phillies,Dodgers,55,0.924,55.924
+Padres,Marlins,56,0.507,56.507
+Cubs,Pirates,56,0.524,56.524
+Braves,Cardinals,56,0.552,56.552
+Angels,Royals,56,0.566,56.566
+Yankees,Brewers,56,0.569,56.569
+Rangers,Athletics,56,0.651,56.651
+Orioles,Blue Jays,56,0.797,56.797
+Rays,Red Sox,56,0.799,56.799
+Diamondbacks,Mets,56,0.799,56.799
+White Sox,Twins,56,0.819,56.819
+Marlins,Nationals,57,0.795,57.795
+Mariners,Yankees,57,0.795,57.795
+Giants,Pirates,57,0.795,57.795
+Orioles,Blue Jays,57,0.797,57.797
+Rays,Tigers,57,0.799,57.799
+Astros,Red Sox,57,0.799,57.799
+Padres,Reds,57,0.799,57.799
+Mets,Braves,57,0.806,57.806
+Rangers,Royals,57,0.837,57.837
+White Sox,Twins,57,0.840,57.840
+Cubs,Brewers,57,0.840,57.840
+Diamondbacks,Cardinals,57,0.844,57.844
+Phillies,Rockies,57,0.861,57.861
+Angels,Athletics,57,0.922,57.922
+Indians,Dodgers,57,0.924,57.924
+Mariners,Yankees,58,0.545,58.545
+Rangers,Royals,58,0.587,58.587
+White Sox,Twins,58,0.590,58.590
+Diamondbacks,Cardinals,58,0.594,58.594
+Orioles,Blue Jays,58,0.630,58.630
+Marlins,Nationals,58,0.670,58.670
+Giants,Pirates,58,0.670,58.670
+Rays,Tigers,58,0.674,58.674
+Padres,Reds,58,0.674,58.674
+Mets,Braves,58,0.674,58.674
+Cubs,Brewers,58,0.674,58.674
+Astros,Red Sox,58,0.802,58.802
+Indians,Dodgers,58,0.802,58.802
+Phillies,Rockies,58,0.882,58.882
+Angels,Athletics,58,0.922,58.922
+Mariners,Yankees,59,0.545,59.545
+Orioles,Blue Jays,59,0.547,59.547
+Rays,Tigers,59,0.549,59.549
+Padres,Reds,59,0.549,59.549
+Marlins,Nationals,59,0.566,59.566
+Giants,Pirates,59,0.566,59.566
+Rangers,Royals,59,0.587,59.587
+White Sox,Twins,59,0.590,59.590
+Cubs,Brewers,59,0.590,59.590
+Diamondbacks,Cardinals,59,0.594,59.594
+Phillies,Rockies,59,0.632,59.632
+Angels,Athletics,59,0.672,59.672
+Indians,Dodgers,59,0.674,59.674
+Mets,Braves,59,0.674,59.674
+Astros,Red Sox,59,0.798,59.798
+White Sox,Orioles,60,0.545,60.545
+Marlins,Nationals,60,0.545,60.545
+Mariners,Yankees,60,0.545,60.545
+Rays,Tigers,60,0.549,60.549
+Cardinals,Braves,60,0.549,60.549
+Giants,Pirates,60,0.566,60.566
+Padres,Reds,60,0.590,60.590
+Dodgers,Rockies,60,0.674,60.674
+Royals,Red Sox,60,0.799,60.799
+Athletics,Astros,60,0.799,60.799
+Indians,Angels,60,0.838,60.838
+Pirates,Reds,61,0.778,61.778
+White Sox,Orioles,61,0.795,61.795
+Twins,Yankees,61,0.795,61.795
+Mets,Phillies,61,0.795,61.795
+Mariners,Tigers,61,0.799,61.799
+Royals,Red Sox,61,0.799,61.799
+Blue Jays,Rays,61,0.799,61.799
+Cardinals,Braves,61,0.806,61.806
+Giants,Brewers,61,0.819,61.819
+Marlins,Cubs,61,0.837,61.837
+Nationals,Rangers,61,0.837,61.837
+Athletics,Astros,61,0.840,61.840
+Dodgers,Rockies,61,0.861,61.861
+Indians,Angels,61,0.922,61.922
+Diamondbacks,Padres,61,0.924,61.924
+Indians,Angels,62,0.672,62.672
+Pirates,Reds,62,0.778,62.778
+White Sox,Orioles,62,0.795,62.795
+Twins,Yankees,62,0.795,62.795
+Mets,Phillies,62,0.795,62.795
+Royals,Red Sox,62,0.799,62.799
+Mariners,Tigers,62,0.799,62.799
+Blue Jays,Rays,62,0.799,62.799
+Cardinals,Braves,62,0.806,62.806
+Giants,Brewers,62,0.819,62.819
+Marlins,Cubs,62,0.837,62.837
+Nationals,Rangers,62,0.837,62.837
+Athletics,Astros,62,0.840,62.840
+Dodgers,Rockies,62,0.861,62.861
+Diamondbacks,Padres,62,0.924,62.924
+Twins,Yankees,63,0.524,63.524
+Pirates,Reds,63,0.524,63.524
+Royals,Red Sox,63,0.545,63.545
+Mariners,Tigers,63,0.549,63.549
+Giants,Brewers,63,0.549,63.549
+Blue Jays,Rays,63,0.549,63.549
+Athletics,Astros,63,0.590,63.590
+Marlins,Cubs,63,0.597,63.597
+Dodgers,Rockies,63,0.632,63.632
+Nationals,Rangers,63,0.670,63.670
+White Sox,Orioles,63,0.795,63.795
+Mets,Phillies,63,0.795,63.795
+Diamondbacks,Padres,63,0.882,63.882
+Reds,Cubs,64,0.597,64.597
+Blue Jays,Orioles,64,0.795,64.795
+Nationals,Phillies,64,0.795,64.795
+Dodgers,Mets,64,0.799,64.799
+Royals,Indians,64,0.799,64.799
+Athletics,Rangers,64,0.837,64.837
+Twins,White Sox,64,0.840,64.840
+Red Sox,Astros,64,0.840,64.840
+Pirates,Cardinals,64,0.844,64.844
+Tigers,Diamondbacks,64,0.903,64.903
+Yankees,Angels,64,0.922,64.922
+Marlins,Padres,64,0.924,64.924
+Braves,Mariners,64,0.924,64.924
+Rockies,Giants,64,0.927,64.927
+Twins,White Sox,65,0.590,65.590
+Pirates,Cardinals,65,0.594,65.594
+Reds,Cubs,65,0.597,65.597
+Blue Jays,Orioles,65,0.670,65.670
+Athletics,Rangers,65,0.670,65.670
+Red Sox,Astros,65,0.674,65.674
+Royals,Indians,65,0.674,65.674
+Brewers,Rays,65,0.674,65.674
+Dodgers,Mets,65,0.802,65.802
+Rockies,Giants,65,0.802,65.802
+Nationals,Phillies,65,0.802,65.802
+Marlins,Padres,65,0.861,65.861
+Yankees,Angels,65,0.922,65.922
+Braves,Mariners,65,0.924,65.924
+Tigers,Diamondbacks,65,0.924,65.924
+Blue Jays,Orioles,66,0.545,66.545
+Nationals,Phillies,66,0.545,66.545
+Royals,Indians,66,0.549,66.549
+Brewers,Rays,66,0.549,66.549
+Twins,White Sox,66,0.590,66.590
+Red Sox,Astros,66,0.590,66.590
+Pirates,Cardinals,66,0.594,66.594
+Reds,Cubs,66,0.597,66.597
+Athletics,Rangers,66,0.608,66.608
+Rockies,Giants,66,0.670,66.670
+Yankees,Angels,66,0.672,66.672
+Braves,Mariners,66,0.674,66.674
+Tigers,Diamondbacks,66,0.674,66.674
+Marlins,Padres,66,0.757,66.757
+Dodgers,Mets,66,0.798,66.798
+Brewers,Nationals,67,0.795,67.795
+Red Sox,Indians,67,0.799,67.799
+Reds,Cubs,67,0.837,67.837
+Angels,Rangers,67,0.837,67.837
+Rays,Twins,67,0.840,67.840
+Blue Jays,Cardinals,67,0.844,67.844
+Rockies,Diamondbacks,67,0.903,67.903
+Padres,Giants,67,0.906,67.906
+Braves,Dodgers,67,0.924,67.924
+Yankees,Mariners,67,0.924,67.924
+Brewers,Nationals,68,0.795,68.795
+Reds,Pirates,68,0.795,68.795
+Astros,Mets,68,0.799,68.799
+Phillies,Marlins,68,0.799,68.799
+Red Sox,Indians,68,0.799,68.799
+Orioles,Cubs,68,0.837,68.837
+White Sox,Royals,68,0.837,68.837
+Angels,Rangers,68,0.837,68.837
+Rays,Twins,68,0.840,68.840
+Blue Jays,Cardinals,68,0.844,68.844
+Rockies,Diamondbacks,68,0.903,68.903
+Padres,Giants,68,0.906,68.906
+Tigers,Athletics,68,0.922,68.922
+Braves,Dodgers,68,0.924,68.924
+Yankees,Mariners,68,0.924,68.924
+Red Sox,Indians,69,0.549,69.549
+Angels,Rangers,69,0.587,69.587
+Yankees,Mariners,69,0.653,69.653
+Rockies,Diamondbacks,69,0.653,69.653
+Brewers,Nationals,69,0.670,69.670
+Reds,Pirates,69,0.795,69.795
+Astros,Mets,69,0.799,69.799
+Phillies,Marlins,69,0.799,69.799
+Orioles,Cubs,69,0.837,69.837
+White Sox,Royals,69,0.837,69.837
+Rays,Twins,69,0.840,69.840
+Braves,Dodgers,69,0.858,69.858
+Padres,Giants,69,0.906,69.906
+Tigers,Athletics,69,0.922,69.922
+Tigers,Athletics,70,0.651,70.651
+Padres,Giants,70,0.656,70.656
+Mets,Nationals,70,0.795,70.795
+Cardinals,Pirates,70,0.795,70.795
+Rangers,Blue Jays,70,0.797,70.797
+Cubs,Reds,70,0.799,70.799
+Phillies,Marlins,70,0.799,70.799
+White Sox,Royals,70,0.837,70.837
+Angels,Twins,70,0.840,70.840
+Rockies,Dodgers,70,0.924,70.924
+Astros,Orioles,71,0.795,71.795
+Mets,Nationals,71,0.795,71.795
+Rays,Yankees,71,0.795,71.795
+Cardinals,Pirates,71,0.795,71.795
+Rangers,Blue Jays,71,0.797,71.797
+Brewers,Red Sox,71,0.799,71.799
+Cubs,Reds,71,0.799,71.799
+Mariners,Marlins,71,0.799,71.799
+Phillies,Braves,71,0.806,71.806
+Indians,Royals,71,0.837,71.837
+Angels,Twins,71,0.840,71.840
+Tigers,White Sox,71,0.840,71.840
+Padres,Diamondbacks,71,0.903,71.903
+Rockies,Dodgers,71,0.924,71.924
+Rays,Yankees,72,0.545,72.545
+Indians,Royals,72,0.587,72.587
+Tigers,White Sox,72,0.590,72.590
+Rangers,Blue Jays,72,0.630,72.630
+Astros,Orioles,72,0.670,72.670
+Cardinals,Pirates,72,0.670,72.670
+Cubs,Reds,72,0.674,72.674
+Padres,Diamondbacks,72,0.674,72.674
+Mariners,Marlins,72,0.674,72.674
+Phillies,Braves,72,0.674,72.674
+Angels,Twins,72,0.802,72.802
+Brewers,Red Sox,72,0.802,72.802
+Mets,Nationals,72,0.802,72.802
+Giants,Athletics,72,0.922,72.922
+Rockies,Dodgers,72,0.924,72.924
+Astros,Orioles,73,0.545,73.545
+Brewers,Red Sox,73,0.545,73.545
+Rays,Yankees,73,0.545,73.545
+Rangers,Blue Jays,73,0.547,73.547
+Cubs,Reds,73,0.549,73.549
+Mariners,Marlins,73,0.549,73.549
+Phillies,Braves,73,0.556,73.556
+Mets,Nationals,73,0.566,73.566
+Cardinals,Pirates,73,0.566,73.566
+Indians,Royals,73,0.587,73.587
+Angels,Twins,73,0.590,73.590
+Tigers,White Sox,73,0.590,73.590
+Giants,Athletics,73,0.672,73.672
+Rockies,Dodgers,73,0.674,73.674
+Padres,Diamondbacks,73,0.674,73.674
+Cubs,Phillies,74,0.795,74.795
+Cardinals,Mets,74,0.799,74.799
+Twins,Orioles,75,0.795,75.795
+Royals,Yankees,75,0.795,75.795
+Cubs,Phillies,75,0.795,75.795
+Mariners,Blue Jays,75,0.797,75.797
+Cardinals,Mets,75,0.799,75.799
+Dodgers,Reds,75,0.799,75.799
+Athletics,Tigers,75,0.799,75.799
+Red Sox,Rays,75,0.799,75.799
+Nationals,Braves,75,0.806,75.806
+Padres,Brewers,75,0.819,75.819
+Indians,White Sox,75,0.840,75.840
+Rangers,Astros,75,0.840,75.840
+Diamondbacks,Rockies,75,0.861,75.861
+Pirates,Giants,75,0.906,75.906
+Marlins,Angels,75,0.922,75.922
+Cardinals,Mets,76,0.507,76.507
+Cubs,Phillies,76,0.545,76.545
+Twins,Orioles,76,0.795,76.795
+Royals,Yankees,76,0.795,76.795
+Mariners,Blue Jays,76,0.797,76.797
+Dodgers,Reds,76,0.799,76.799
+Athletics,Tigers,76,0.799,76.799
+Red Sox,Rays,76,0.799,76.799
+Nationals,Braves,76,0.806,76.806
+Padres,Brewers,76,0.819,76.819
+Indians,White Sox,76,0.840,76.840
+Rangers,Astros,76,0.840,76.840
+Diamondbacks,Rockies,76,0.861,76.861
+Pirates,Giants,76,0.906,76.906
+Marlins,Angels,76,0.922,76.922
+Dodgers,Reds,77,0.524,77.524
+Mariners,Blue Jays,77,0.526,77.526
+Athletics,Tigers,77,0.549,77.549
+Indians,White Sox,77,0.590,77.590
+Padres,Brewers,77,0.590,77.590
+Diamondbacks,Rockies,77,0.632,77.632
+Pirates,Giants,77,0.656,77.656
+Twins,Orioles,77,0.795,77.795
+Royals,Yankees,77,0.795,77.795
+Red Sox,Rays,77,0.799,77.799
+Nationals,Braves,77,0.806,77.806
+Rangers,Astros,77,0.840,77.840
+Athletics,Phillies,78,0.795,78.795
+Yankees,Red Sox,78,0.799,78.799
+Nationals,Mets,78,0.799,78.799
+Blue Jays,Tigers,78,0.799,78.799
+Orioles,Rays,78,0.799,78.799
+Dodgers,Braves,78,0.806,78.806
+Twins,Royals,78,0.837,78.837
+Indians,Rangers,78,0.837,78.837
+White Sox,Astros,78,0.840,78.840
+Reds,Brewers,78,0.840,78.840
+Pirates,Rockies,78,0.861,78.861
+Mariners,Angels,78,0.922,78.922
+Diamondbacks,Padres,78,0.924,78.924
+Marlins,Giants,78,0.927,78.927
+Cubs,Cardinals,79,0.549,79.549
+Marlins,Giants,79,0.670,79.670
+Athletics,Phillies,79,0.670,79.670
+Twins,Royals,79,0.670,79.670
+Indians,Rangers,79,0.670,79.670
+Nationals,Mets,79,0.674,79.674
+Blue Jays,Tigers,79,0.674,79.674
+White Sox,Astros,79,0.674,79.674
+Orioles,Rays,79,0.674,79.674
+Reds,Brewers,79,0.674,79.674
+Yankees,Red Sox,79,0.802,79.802
+Dodgers,Braves,79,0.802,79.802
+Pirates,Rockies,79,0.882,79.882
+Mariners,Angels,79,0.922,79.922
+Diamondbacks,Padres,79,0.924,79.924
+Cubs,Cardinals,80,0.465,80.465
+Athletics,Phillies,80,0.545,80.545
+Nationals,Mets,80,0.549,80.549
+Blue Jays,Tigers,80,0.549,80.549
+Orioles,Rays,80,0.549,80.549
+Dodgers,Braves,80,0.556,80.556
+Twins,Royals,80,0.587,80.587
+White Sox,Astros,80,0.590,80.590
+Reds,Brewers,80,0.590,80.590
+Indians,Rangers,80,0.608,80.608
+Pirates,Rockies,80,0.632,80.632
+Marlins,Giants,80,0.670,80.670
+Mariners,Angels,80,0.672,80.672
+Diamondbacks,Padres,80,0.674,80.674
+Yankees,Red Sox,80,0.798,80.798
+Orioles,Indians,81,0.799,81.799
+Royals,Rangers,81,0.837,81.837
+Angels,Athletics,81,0.922,81.922
+Diamondbacks,Dodgers,81,0.924,81.924
+Giants,Nationals,82,0.795,82.795
+Marlins,Phillies,82,0.795,82.795
+Yankees,Pirates,82,0.795,82.795
+Rays,Blue Jays,82,0.797,82.797
+Braves,Red Sox,82,0.799,82.799
+White Sox,Tigers,82,0.799,82.799
+Orioles,Indians,82,0.799,82.799
+Mets,Cubs,82,0.837,82.837
+Royals,Rangers,82,0.837,82.837
+Brewers,Twins,82,0.840,82.840
+Rockies,Cardinals,82,0.844,82.844
+Angels,Athletics,82,0.922,82.922
+Reds,Padres,82,0.924,82.924
+Diamondbacks,Dodgers,82,0.924,82.924
+Astros,Mariners,82,0.924,82.924
+Brewers,Twins,83,0.549,83.549
+Royals,Rangers,83,0.587,83.587
+Angels,Athletics,83,0.651,83.651
+Giants,Nationals,83,0.795,83.795
+Marlins,Phillies,83,0.795,83.795
+Yankees,Pirates,83,0.795,83.795
+Rays,Blue Jays,83,0.797,83.797
+Braves,Red Sox,83,0.799,83.799
+White Sox,Tigers,83,0.799,83.799
+Orioles,Indians,83,0.799,83.799
+Mets,Cubs,83,0.837,83.837
+Rockies,Cardinals,83,0.844,83.844
+Reds,Padres,83,0.924,83.924
+Diamondbacks,Dodgers,83,0.924,83.924
+Astros,Mariners,83,0.924,83.924
+White Sox,Tigers,84,0.549,84.549
+Rockies,Cardinals,84,0.552,84.552
+Mets,Cubs,84,0.597,84.597
+Reds,Padres,84,0.653,84.653
+Giants,Nationals,84,0.670,84.670
+Marlins,Phillies,84,0.753,84.753
+Rays,Blue Jays,84,0.797,84.797
+Orioles,Indians,84,0.799,84.799
+Yankees,Twins,84,0.840,84.840
+Rangers,Angels,84,0.922,84.922
+Diamondbacks,Dodgers,84,0.924,84.924
+Royals,Mariners,84,0.924,84.924
+Red Sox,Cubs,85,0.597,85.597
+Rays,Orioles,85,0.795,85.795
+Braves,Nationals,85,0.795,85.795
+Blue Jays,Pirates,85,0.795,85.795
+Phillies,Mets,85,0.799,85.799
+Giants,Marlins,85,0.799,85.799
+White Sox,Indians,85,0.799,85.799
+Yankees,Twins,85,0.840,85.840
+Reds,Cardinals,85,0.844,85.844
+Padres,Rockies,85,0.861,85.861
+Astros,Athletics,85,0.901,85.901
+Brewers,Diamondbacks,85,0.903,85.903
+Rangers,Angels,85,0.922,85.922
+Tigers,Dodgers,85,0.924,85.924
+Royals,Mariners,85,0.924,85.924
+Yankees,Twins,86,0.590,86.590
+Reds,Cardinals,86,0.594,86.594
+Padres,Rockies,86,0.632,86.632
+Rays,Orioles,86,0.670,86.670
+Braves,Nationals,86,0.670,86.670
+Blue Jays,Pirates,86,0.670,86.670
+Phillies,Mets,86,0.674,86.674
+Royals,Mariners,86,0.674,86.674
+Giants,Marlins,86,0.674,86.674
+White Sox,Indians,86,0.674,86.674
+Red Sox,Cubs,86,0.844,86.844
+Astros,Athletics,86,0.844,86.844
+Rangers,Angels,86,0.922,86.922
+Tigers,Dodgers,86,0.924,86.924
+Brewers,Diamondbacks,86,0.924,86.924
+Rays,Orioles,87,0.545,87.545
+Phillies,Mets,87,0.549,87.549
+Giants,Marlins,87,0.549,87.549
+White Sox,Indians,87,0.549,87.549
+Braves,Nationals,87,0.566,87.566
+Blue Jays,Pirates,87,0.566,87.566
+Yankees,Twins,87,0.590,87.590
+Reds,Cardinals,87,0.594,87.594
+Padres,Rockies,87,0.632,87.632
+Rangers,Angels,87,0.672,87.672
+Astros,Athletics,87,0.672,87.672
+Tigers,Dodgers,87,0.674,87.674
+Royals,Mariners,87,0.674,87.674
+Brewers,Diamondbacks,87,0.674,87.674
+Red Sox,Cubs,87,0.798,87.798
+Pirates,Nationals,88,0.795,88.795
+Orioles,Yankees,88,0.795,88.795
+Cardinals,Marlins,88,0.799,88.799
+Phillies,Braves,88,0.806,88.806
+Tigers,White Sox,88,0.840,88.840
+Twins,Astros,88,0.840,88.840
+Blue Jays,Brewers,88,0.840,88.840
+Royals,Rockies,88,0.861,88.861
+Dodgers,Diamondbacks,88,0.903,88.903
+Mets,Giants,88,0.906,88.906
+Red Sox,Angels,88,0.922,88.922
+Rangers,Mariners,88,0.924,88.924
+Pirates,Nationals,89,0.795,89.795
+Orioles,Yankees,89,0.795,89.795
+Cubs,Reds,89,0.799,89.799
+Cardinals,Marlins,89,0.799,89.799
+Athletics,Rays,89,0.799,89.799
+Phillies,Braves,89,0.806,89.806
+Tigers,White Sox,89,0.840,89.840
+Twins,Astros,89,0.840,89.840
+Blue Jays,Brewers,89,0.840,89.840
+Royals,Rockies,89,0.861,89.861
+Dodgers,Diamondbacks,89,0.903,89.903
+Mets,Giants,89,0.906,89.906
+Red Sox,Angels,89,0.922,89.922
+Indians,Padres,89,0.924,89.924
+Rangers,Mariners,89,0.924,89.924
+Blue Jays,Brewers,90,0.590,90.590
+Royals,Rockies,90,0.632,90.632
+Indians,Padres,90,0.653,90.653
+Dodgers,Diamondbacks,90,0.653,90.653
+Red Sox,Angels,90,0.672,90.672
+Rangers,Mariners,90,0.674,90.674
+Pirates,Nationals,90,0.795,90.795
+Orioles,Yankees,90,0.795,90.795
+Cubs,Reds,90,0.799,90.799
+Cardinals,Marlins,90,0.799,90.799
+Athletics,Rays,90,0.799,90.799
+Phillies,Braves,90,0.806,90.806
+Tigers,White Sox,90,0.840,90.840
+Twins,Astros,90,0.840,90.840
+Mets,Giants,90,0.906,90.906
+Cardinals,Marlins,91,0.507,91.507
+Athletics,Rays,91,0.507,91.507
+Phillies,Braves,91,0.514,91.514
+Cubs,Reds,91,0.524,91.524
+Mets,Giants,91,0.656,91.656
+Pirates,Nationals,91,0.670,91.670
+Tigers,White Sox,91,0.840,91.840
+Diamondbacks,Phillies,92,0.753,92.753
+Tigers,Orioles,92,0.795,92.795
+Cubs,Yankees,92,0.795,92.795
+Angels,Blue Jays,92,0.797,92.797
+Cardinals,Red Sox,92,0.799,92.799
+Nationals,Reds,92,0.799,92.799
+Braves,Marlins,92,0.799,92.799
+Mariners,Rays,92,0.799,92.799
+Indians,Royals,92,0.837,92.837
+Rockies,Twins,92,0.840,92.840
+Athletics,White Sox,92,0.840,92.840
+Rangers,Astros,92,0.840,92.840
+Pirates,Brewers,92,0.840,92.840
+Mets,Padres,92,0.924,92.924
+Dodgers,Giants,92,0.927,92.927
+Indians,Royals,93,0.587,93.587
+Rockies,Twins,93,0.590,93.590
+Athletics,White Sox,93,0.590,93.590
+Angels,Blue Jays,93,0.630,93.630
+Tigers,Orioles,93,0.670,93.670
+Cardinals,Red Sox,93,0.670,93.670
+Diamondbacks,Phillies,93,0.670,93.670
+Rangers,Astros,93,0.674,93.674
+Nationals,Reds,93,0.674,93.674
+Braves,Marlins,93,0.674,93.674
+Mariners,Rays,93,0.674,93.674
+Pirates,Brewers,93,0.674,93.674
+Dodgers,Giants,93,0.802,93.802
+Cubs,Yankees,93,0.802,93.802
+Mets,Padres,93,0.924,93.924
+Tigers,Orioles,94,0.545,94.545
+Cardinals,Red Sox,94,0.545,94.545
+Diamondbacks,Phillies,94,0.545,94.545
+Angels,Blue Jays,94,0.547,94.547
+Nationals,Reds,94,0.549,94.549
+Braves,Marlins,94,0.549,94.549
+Mariners,Rays,94,0.549,94.549
+Indians,Royals,94,0.587,94.587
+Rockies,Twins,94,0.590,94.590
+Athletics,White Sox,94,0.590,94.590
+Rangers,Astros,94,0.590,94.590
+Pirates,Brewers,94,0.590,94.590
+Dodgers,Giants,94,0.670,94.670
+Mets,Padres,94,0.674,94.674
+Cubs,Yankees,94,0.798,94.798
+Diamondbacks,Phillies,95,0.753,95.753
+Yankees,Orioles,95,0.795,95.795
+Rockies,Pirates,95,0.795,95.795
+Mariners,Red Sox,95,0.799,95.799
+Astros,Indians,95,0.799,95.799
+Angels,Rays,95,0.799,95.799
+Brewers,Cubs,95,0.837,95.837
+Braves,Rangers,95,0.837,95.837
+Nationals,Cardinals,95,0.844,95.844
+Marlins,Athletics,95,0.922,95.922
+Reds,Dodgers,95,0.924,95.924
+Yankees,Orioles,96,0.795,96.795
+Padres,Phillies,96,0.795,96.795
+Rockies,Pirates,96,0.795,96.795
+White Sox,Blue Jays,96,0.797,96.797
+Mariners,Red Sox,96,0.799,96.799
+Giants,Mets,96,0.799,96.799
+Twins,Tigers,96,0.799,96.799
+Astros,Indians,96,0.799,96.799
+Angels,Rays,96,0.799,96.799
+Diamondbacks,Royals,96,0.837,96.837
+Brewers,Cubs,96,0.837,96.837
+Braves,Rangers,96,0.837,96.837
+Nationals,Cardinals,96,0.844,96.844
+Marlins,Athletics,96,0.922,96.922
+Reds,Dodgers,96,0.924,96.924
+Rockies,Pirates,97,0.524,97.524
+Yankees,Orioles,97,0.545,97.545
+Mariners,Red Sox,97,0.545,97.545
+White Sox,Blue Jays,97,0.547,97.547
+Marlins,Athletics,97,0.651,97.651
+Padres,Phillies,97,0.795,97.795
+Giants,Mets,97,0.799,97.799
+Twins,Tigers,97,0.799,97.799
+Astros,Indians,97,0.799,97.799
+Angels,Rays,97,0.799,97.799
+Diamondbacks,Royals,97,0.837,97.837
+Brewers,Cubs,97,0.837,97.837
+Braves,Rangers,97,0.837,97.837
+Nationals,Cardinals,97,0.844,97.844
+Reds,Dodgers,97,0.924,97.924
+Padres,Phillies,98,0.503,98.503
+Angels,Rays,98,0.507,98.507
+Giants,Mets,98,0.549,98.549
+Twins,Tigers,98,0.549,98.549
+Astros,Indians,98,0.549,98.549
+Brewers,Cubs,98,0.597,98.597
+White Sox,Blue Jays,98,0.797,98.797
+Nationals,Cardinals,98,0.802,98.802
+Orioles,Athletics,98,0.922,98.922
+Reds,Dodgers,98,0.924,98.924
+Rays,Cubs,99,0.597,99.597
+Astros,Nationals,99,0.753,99.753
+Red Sox,Pirates,99,0.795,99.795
+Yankees,Blue Jays,99,0.797,99.797
+Padres,Mets,99,0.799,99.799
+Royals,Tigers,99,0.799,99.799
+Twins,Indians,99,0.799,99.799
+Angels,Braves,99,0.806,99.806
+White Sox,Rangers,99,0.837,99.837
+Giants,Rockies,99,0.840,99.840
+Brewers,Cardinals,99,0.844,99.844
+Reds,Diamondbacks,99,0.903,99.903
+Orioles,Athletics,99,0.922,99.922
+Phillies,Mariners,99,0.924,99.924
+Marlins,Dodgers,99,0.924,99.924
+Astros,Nationals,100,0.462,100.462
+Padres,Mets,100,0.549,100.549
+Rays,Cubs,100,0.597,100.597
+Yankees,Blue Jays,100,0.630,100.630
+White Sox,Rangers,100,0.670,100.670
+Red Sox,Pirates,100,0.670,100.670
+Orioles,Athletics,100,0.672,100.672
+Phillies,Mariners,100,0.674,100.674
+Royals,Tigers,100,0.674,100.674
+Brewers,Cardinals,100,0.802,100.802
+Twins,Indians,100,0.802,100.802
+Angels,Braves,100,0.802,100.802
+Reds,Diamondbacks,100,0.882,100.882
+Giants,Rockies,100,0.882,100.882
+Marlins,Dodgers,100,0.924,100.924
+Yankees,Blue Jays,101,0.547,101.547
+Padres,Mets,101,0.549,101.549
+Royals,Tigers,101,0.549,101.549
+Twins,Indians,101,0.549,101.549
+Angels,Braves,101,0.556,101.556
+Astros,Nationals,101,0.566,101.566
+Red Sox,Pirates,101,0.566,101.566
+Brewers,Cardinals,101,0.594,101.594
+Rays,Cubs,101,0.597,101.597
+White Sox,Rangers,101,0.608,101.608
+Giants,Rockies,101,0.632,101.632
+Orioles,Athletics,101,0.672,101.672
+Phillies,Mariners,101,0.674,101.674
+Marlins,Dodgers,101,0.674,101.674
+Reds,Diamondbacks,101,0.674,101.674
+Padres,Mets,102,0.549,102.549
+Blue Jays,Red Sox,102,0.799,102.799
+Pirates,Braves,102,0.806,102.806
+Royals,Twins,102,0.840,102.840
+Diamondbacks,Rockies,102,0.861,102.861
+Tigers,Angels,102,0.922,102.922
+Orioles,Mariners,102,0.924,102.924
+Cardinals,Nationals,103,0.795,103.795
+Mets,Yankees,103,0.795,103.795
+Blue Jays,Red Sox,103,0.799,103.799
+Indians,Reds,103,0.799,103.799
+Rangers,Marlins,103,0.799,103.799
+Pirates,Braves,103,0.806,103.806
+Royals,Twins,103,0.840,103.840
+Cubs,White Sox,103,0.840,103.840
+Phillies,Astros,103,0.840,103.840
+Rays,Brewers,103,0.840,103.840
+Diamondbacks,Rockies,103,0.861,103.861
+Athletics,Giants,103,0.906,103.906
+Tigers,Angels,103,0.922,103.922
+Dodgers,Padres,103,0.924,103.924
+Orioles,Mariners,103,0.924,103.924
+Royals,Twins,104,0.549,104.549
+Rays,Brewers,104,0.590,104.590
+Diamondbacks,Rockies,104,0.632,104.632
+Orioles,Mariners,104,0.778,104.778
+Cardinals,Nationals,104,0.795,104.795
+Mets,Yankees,104,0.795,104.795
+Blue Jays,Red Sox,104,0.799,104.799
+Indians,Reds,104,0.799,104.799
+Rangers,Marlins,104,0.799,104.799
+Pirates,Braves,104,0.806,104.806
+Cubs,White Sox,104,0.840,104.840
+Phillies,Astros,104,0.840,104.840
+Athletics,Giants,104,0.906,104.906
+Tigers,Angels,104,0.922,104.922
+Dodgers,Padres,104,0.924,104.924
+Rangers,Marlins,105,0.507,105.507
+Pirates,Braves,105,0.514,105.514
+Phillies,Astros,105,0.590,105.590
+Cardinals,Nationals,105,0.670,105.670
+Royals,Indians,105,0.799,105.799
+Blue Jays,Twins,105,0.840,105.840
+Rockies,Brewers,105,0.840,105.840
+Tigers,Angels,105,0.880,105.880
+Dodgers,Padres,105,0.882,105.882
+Athletics,Mariners,105,0.924,105.924
+Phillies,Nationals,106,0.795,106.795
+Rangers,Yankees,106,0.795,106.795
+Orioles,Red Sox,106,0.799,106.799
+Pirates,Reds,106,0.799,106.799
+Mets,Marlins,106,0.799,106.799
+Royals,Indians,106,0.799,106.799
+Cardinals,Rays,106,0.799,106.799
+Cubs,Braves,106,0.806,106.806
+Blue Jays,Twins,106,0.840,106.840
+Diamondbacks,White Sox,106,0.840,106.840
+Tigers,Astros,106,0.840,106.840
+Rockies,Brewers,106,0.840,106.840
+Dodgers,Angels,106,0.922,106.922
+Athletics,Mariners,106,0.924,106.924
+Padres,Giants,106,0.927,106.927
+Rangers,Yankees,107,0.545,107.545
+Blue Jays,Twins,107,0.590,107.590
+Diamondbacks,White Sox,107,0.590,107.590
+Orioles,Red Sox,107,0.670,107.670
+Tigers,Astros,107,0.674,107.674
+Pirates,Reds,107,0.674,107.674
+Mets,Marlins,107,0.674,107.674
+Cardinals,Rays,107,0.674,107.674
+Rockies,Brewers,107,0.674,107.674
+Royals,Indians,107,0.757,107.757
+Phillies,Nationals,107,0.802,107.802
+Dodgers,Angels,107,0.802,107.802
+Cubs,Braves,107,0.802,107.802
+Padres,Giants,107,0.878,107.878
+Athletics,Mariners,107,0.924,107.924
+Orioles,Red Sox,108,0.545,108.545
+Rangers,Yankees,108,0.545,108.545
+Pirates,Reds,108,0.549,108.549
+Mets,Marlins,108,0.549,108.549
+Royals,Indians,108,0.549,108.549
+Cardinals,Rays,108,0.549,108.549
+Cubs,Braves,108,0.556,108.556
+Phillies,Nationals,108,0.566,108.566
+Blue Jays,Twins,108,0.590,108.590
+Diamondbacks,White Sox,108,0.590,108.590
+Tigers,Astros,108,0.590,108.590
+Rockies,Brewers,108,0.590,108.590
+Padres,Giants,108,0.670,108.670
+Athletics,Mariners,108,0.674,108.674
+Giants,Dodgers,112,0.840,112.840
+Reds,Cubs,113,0.597,113.597
+Rays,Orioles,113,0.795,113.795
+Angels,Phillies,113,0.795,113.795
+Nationals,Pirates,113,0.795,113.795
+Indians,Blue Jays,113,0.797,113.797
+Mariners,Mets,113,0.799,113.799
+White Sox,Tigers,113,0.799,113.799
+Red Sox,Royals,113,0.837,113.837
+Twins,Rangers,113,0.837,113.837
+Yankees,Cardinals,113,0.844,113.844
+Braves,Rockies,113,0.861,113.861
+Marlins,Diamondbacks,113,0.903,113.903
+Astros,Athletics,113,0.922,113.922
+Brewers,Padres,113,0.924,113.924
+Giants,Dodgers,113,0.924,113.924
+Reds,Cubs,114,0.597,114.597
+Indians,Blue Jays,114,0.630,114.630
+Rays,Orioles,114,0.712,114.712
+White Sox,Tigers,114,0.757,114.757
+Red Sox,Royals,114,0.795,114.795
+Angels,Phillies,114,0.795,114.795
+Twins,Rangers,114,0.795,114.795
+Nationals,Pirates,114,0.795,114.795
+Mariners,Mets,114,0.799,114.799
+Giants,Dodgers,114,0.802,114.802
+Yankees,Cardinals,114,0.802,114.802
+Marlins,Diamondbacks,114,0.840,114.840
+Braves,Rockies,114,0.840,114.840
+Brewers,Padres,114,0.861,114.861
+Astros,Athletics,114,0.880,114.880
+Rays,Orioles,115,0.545,115.545
+Angels,Phillies,115,0.545,115.545
+Indians,Blue Jays,115,0.547,115.547
+Mariners,Mets,115,0.549,115.549
+White Sox,Tigers,115,0.549,115.549
+Nationals,Pirates,115,0.566,115.566
+Red Sox,Royals,115,0.587,115.587
+Reds,Cubs,115,0.597,115.597
+Twins,Rangers,115,0.608,115.608
+Braves,Rockies,115,0.632,115.632
+Astros,Athletics,115,0.672,115.672
+Brewers,Padres,115,0.674,115.674
+Giants,Dodgers,115,0.674,115.674
+Marlins,Diamondbacks,115,0.674,115.674
+Yankees,Cardinals,115,0.798,115.798
+Mariners,Orioles,116,0.795,116.795
+Angels,Yankees,116,0.795,116.795
+Nationals,Phillies,116,0.795,116.795
+Red Sox,Blue Jays,116,0.797,116.797
+Rays,Royals,116,0.837,116.837
+White Sox,Cubs,116,0.837,116.837
+Astros,Rangers,116,0.837,116.837
+Giants,Cardinals,116,0.844,116.844
+Marlins,Rockies,116,0.861,116.861
+Twins,Diamondbacks,116,0.903,116.903
+Brewers,Dodgers,116,0.924,116.924
+Padres,Pirates,117,0.795,117.795
+Mariners,Orioles,117,0.795,117.795
+Angels,Yankees,117,0.795,117.795
+Nationals,Phillies,117,0.795,117.795
+Red Sox,Blue Jays,117,0.797,117.797
+Indians,Tigers,117,0.799,117.799
+Mets,Reds,117,0.799,117.799
+Rays,Royals,117,0.837,117.837
+White Sox,Cubs,117,0.837,117.837
+Astros,Rangers,117,0.837,117.837
+Giants,Cardinals,117,0.844,117.844
+Marlins,Rockies,117,0.861,117.861
+Twins,Diamondbacks,117,0.903,117.903
+Braves,Athletics,117,0.922,117.922
+Brewers,Dodgers,117,0.924,117.924
+Mariners,Orioles,118,0.524,118.524
+Giants,Cardinals,118,0.552,118.552
+Brewers,Dodgers,118,0.632,118.632
+Braves,Athletics,118,0.651,118.651
+Twins,Diamondbacks,118,0.653,118.653
+Red Sox,Blue Jays,118,0.672,118.672
+Padres,Pirates,118,0.795,118.795
+Angels,Yankees,118,0.795,118.795
+Nationals,Phillies,118,0.795,118.795
+Indians,Tigers,118,0.799,118.799
+Mets,Reds,118,0.799,118.799
+Rays,Royals,118,0.837,118.837
+Astros,Rangers,118,0.837,118.837
+Marlins,Rockies,118,0.861,118.861
+Padres,Pirates,119,0.524,119.524
+Mets,Reds,119,0.524,119.524
+Angels,Yankees,119,0.545,119.545
+Nationals,Phillies,119,0.545,119.545
+Indians,Tigers,119,0.549,119.549
+Marlins,Rockies,119,0.632,119.632
+Astros,Rangers,119,0.837,119.837
+Twins,White Sox,119,0.840,119.840
+Cubs,Cardinals,119,0.844,119.844
+Rockies,Reds,120,0.778,120.778
+Athletics,Orioles,120,0.795,120.795
+Braves,Nationals,120,0.795,120.795
+Red Sox,Yankees,120,0.795,120.795
+Mets,Phillies,120,0.795,120.795
+Dodgers,Marlins,120,0.799,120.799
+Tigers,Rays,120,0.799,120.799
+Padres,Royals,120,0.837,120.837
+Angels,Rangers,120,0.837,120.837
+Twins,White Sox,120,0.840,120.840
+Indians,Astros,120,0.840,120.840
+Pirates,Brewers,120,0.840,120.840
+Cubs,Cardinals,120,0.844,120.844
+Blue Jays,Mariners,120,0.924,120.924
+Diamondbacks,Giants,120,0.927,120.927
+Red Sox,Yankees,121,0.545,121.545
+Tigers,Rays,121,0.549,121.549
+Diamondbacks,Giants,121,0.670,121.670
+Blue Jays,Mariners,121,0.674,121.674
+Mets,Phillies,121,0.753,121.753
+Dodgers,Marlins,121,0.757,121.757
+Athletics,Orioles,121,0.795,121.795
+Padres,Royals,121,0.795,121.795
+Braves,Nationals,121,0.795,121.795
+Angels,Rangers,121,0.795,121.795
+Twins,White Sox,121,0.799,121.799
+Indians,Astros,121,0.799,121.799
+Rockies,Reds,121,0.799,121.799
+Pirates,Brewers,121,0.799,121.799
+Cubs,Cardinals,121,0.802,121.802
+Athletics,Orioles,122,0.545,122.545
+Mets,Phillies,122,0.545,122.545
+Rockies,Reds,122,0.549,122.549
+Dodgers,Marlins,122,0.549,122.549
+Tigers,Rays,122,0.549,122.549
+Braves,Nationals,122,0.566,122.566
+Padres,Royals,122,0.587,122.587
+Twins,White Sox,122,0.590,122.590
+Indians,Astros,122,0.590,122.590
+Pirates,Brewers,122,0.590,122.590
+Cubs,Cardinals,122,0.594,122.594
+Angels,Rangers,122,0.608,122.608
+Diamondbacks,Giants,122,0.670,122.670
+Blue Jays,Mariners,122,0.674,122.674
+Red Sox,Yankees,122,0.798,122.798
+Dodgers,Marlins,123,0.757,123.757
+Rockies,Nationals,123,0.795,123.795
+Orioles,Red Sox,123,0.799,123.799
+Reds,Braves,123,0.806,123.806
+Tigers,White Sox,123,0.840,123.840
+Athletics,Astros,123,0.840,123.840
+Cardinals,Brewers,123,0.840,123.840
+Phillies,Diamondbacks,123,0.903,123.903
+Cubs,Giants,123,0.906,123.906
+Blue Jays,Angels,123,0.922,123.922
+Pirates,Padres,123,0.924,123.924
+Rockies,Nationals,124,0.795,124.795
+Orioles,Red Sox,124,0.799,124.799
+Yankees,Mets,124,0.799,124.799
+Royals,Indians,124,0.799,124.799
+Marlins,Rays,124,0.799,124.799
+Reds,Braves,124,0.806,124.806
+Dodgers,Twins,124,0.840,124.840
+Tigers,White Sox,124,0.840,124.840
+Athletics,Astros,124,0.840,124.840
+Cardinals,Brewers,124,0.840,124.840
+Phillies,Diamondbacks,124,0.903,124.903
+Cubs,Giants,124,0.906,124.906
+Blue Jays,Angels,124,0.922,124.922
+Pirates,Padres,124,0.924,124.924
+Rangers,Mariners,124,0.924,124.924
+Rockies,Nationals,125,0.503,125.503
+Marlins,Rays,125,0.507,125.507
+Dodgers,Twins,125,0.549,125.549
+Tigers,White Sox,125,0.590,125.590
+Athletics,Astros,125,0.590,125.590
+Pirates,Padres,125,0.653,125.653
+Rangers,Mariners,125,0.653,125.653
+Orioles,Red Sox,125,0.799,125.799
+Yankees,Mets,125,0.799,125.799
+Royals,Indians,125,0.799,125.799
+Reds,Braves,125,0.806,125.806
+Blue Jays,Angels,125,0.838,125.838
+Cardinals,Brewers,125,0.840,125.840
+Phillies,Diamondbacks,125,0.903,125.903
+Cubs,Giants,125,0.906,125.906
+Cardinals,Brewers,126,0.590,126.590
+Cubs,Giants,126,0.656,126.656
+Yankees,Red Sox,126,0.799,126.799
+Marlins,Mets,126,0.799,126.799
+Royals,Tigers,126,0.799,126.799
+White Sox,Indians,126,0.799,126.799
+Reds,Braves,126,0.806,126.806
+Dodgers,Diamondbacks,126,0.903,126.903
+Mariners,Angels,126,0.922,126.922
+Rangers,Athletics,126,0.922,126.922
+Phillies,Padres,126,0.924,126.924
+Brewers,Cubs,127,0.597,127.597
+Cardinals,Pirates,127,0.795,127.795
+Orioles,Blue Jays,127,0.797,127.797
+Yankees,Red Sox,127,0.799,127.799
+Marlins,Mets,127,0.799,127.799
+Royals,Tigers,127,0.799,127.799
+Rays,Reds,127,0.799,127.799
+White Sox,Indians,127,0.799,127.799
+Nationals,Braves,127,0.806,127.806
+Astros,Twins,127,0.840,127.840
+Giants,Rockies,127,0.861,127.861
+Dodgers,Diamondbacks,127,0.903,127.903
+Mariners,Angels,127,0.922,127.922
+Rangers,Athletics,127,0.922,127.922
+Phillies,Padres,127,0.924,127.924
+Brewers,Cubs,128,0.597,128.597
+Orioles,Blue Jays,128,0.630,128.630
+Yankees,Red Sox,128,0.670,128.670
+Rangers,Athletics,128,0.670,128.670
+Royals,Tigers,128,0.757,128.757
+Rays,Reds,128,0.778,128.778
+Cardinals,Pirates,128,0.795,128.795
+Astros,Twins,128,0.799,128.799
+Marlins,Mets,128,0.799,128.799
+White Sox,Indians,128,0.799,128.799
+Nationals,Braves,128,0.806,128.806
+Dodgers,Diamondbacks,128,0.840,128.840
+Giants,Rockies,128,0.840,128.840
+Phillies,Padres,128,0.861,128.861
+Mariners,Angels,128,0.880,128.880
+Yankees,Red Sox,129,0.545,129.545
+Orioles,Blue Jays,129,0.547,129.547
+Marlins,Mets,129,0.549,129.549
+Royals,Tigers,129,0.549,129.549
+Rays,Reds,129,0.549,129.549
+White Sox,Indians,129,0.549,129.549
+Nationals,Braves,129,0.556,129.556
+Cardinals,Pirates,129,0.566,129.566
+Astros,Twins,129,0.590,129.590
+Brewers,Cubs,129,0.597,129.597
+Giants,Rockies,129,0.632,129.632
+Mariners,Angels,129,0.672,129.672
+Rangers,Athletics,129,0.672,129.672
+Phillies,Padres,129,0.674,129.674
+Dodgers,Diamondbacks,129,0.674,129.674
+Rays,Blue Jays,130,0.630,130.630
+Brewers,Pirates,130,0.795,130.795
+White Sox,Yankees,130,0.795,130.795
+Braves,Cubs,130,0.837,130.837
+Indians,Twins,130,0.840,130.840
+Mets,Rockies,130,0.861,130.861
+Rangers,Angels,130,0.922,130.922
+Mariners,Athletics,130,0.922,130.922
+Padres,Dodgers,130,0.924,130.924
+Mariners,Athletics,131,0.651,131.651
+Rangers,Angels,131,0.672,131.672
+Brewers,Pirates,131,0.795,131.795
+Red Sox,Orioles,131,0.795,131.795
+White Sox,Yankees,131,0.795,131.795
+Reds,Phillies,131,0.795,131.795
+Rays,Blue Jays,131,0.797,131.797
+Giants,Tigers,131,0.799,131.799
+Nationals,Marlins,131,0.799,131.799
+Cardinals,Royals,131,0.837,131.837
+Braves,Cubs,131,0.837,131.837
+Indians,Twins,131,0.840,131.840
+Diamondbacks,Astros,131,0.840,131.840
+Mets,Rockies,131,0.861,131.861
+Padres,Dodgers,131,0.924,131.924
+Rays,Blue Jays,132,0.526,132.526
+Indians,Twins,132,0.549,132.549
+Giants,Tigers,132,0.549,132.549
+Diamondbacks,Astros,132,0.590,132.590
+Mets,Rockies,132,0.632,132.632
+Brewers,Pirates,132,0.795,132.795
+Red Sox,Orioles,132,0.795,132.795
+White Sox,Yankees,132,0.795,132.795
+Reds,Phillies,132,0.795,132.795
+Nationals,Marlins,132,0.799,132.799
+Cardinals,Royals,132,0.837,132.837
+Braves,Cubs,132,0.837,132.837
+Padres,Dodgers,132,0.924,132.924
+Braves,Cubs,133,0.597,133.597
+Diamondbacks,Pirates,133,0.795,133.795
+Red Sox,Orioles,133,0.795,133.795
+Athletics,Yankees,133,0.795,133.795
+Reds,Phillies,133,0.795,133.795
+Nationals,Marlins,133,0.799,133.799
+Twins,Royals,133,0.837,133.837
+Tigers,Rangers,133,0.837,133.837
+Blue Jays,Astros,133,0.840,133.840
+Angels,Mariners,133,0.924,133.924
+Mets,Dodgers,133,0.924,133.924
+Diamondbacks,Pirates,134,0.795,134.795
+Athletics,Yankees,134,0.795,134.795
+Giants,Phillies,134,0.795,134.795
+Braves,Marlins,134,0.799,134.799
+Red Sox,Rays,134,0.799,134.799
+Twins,Royals,134,0.837,134.837
+Tigers,Rangers,134,0.837,134.837
+Indians,White Sox,134,0.840,134.840
+Blue Jays,Astros,134,0.840,134.840
+Cubs,Brewers,134,0.840,134.840
+Reds,Cardinals,134,0.844,134.844
+Rockies,Padres,134,0.924,134.924
+Angels,Mariners,134,0.924,134.924
+Mets,Dodgers,134,0.924,134.924
+Athletics,Yankees,135,0.545,135.545
+Giants,Phillies,135,0.670,135.670
+Braves,Marlins,135,0.757,135.757
+Red Sox,Rays,135,0.757,135.757
+Diamondbacks,Pirates,135,0.795,135.795
+Nationals,Orioles,135,0.795,135.795
+Twins,Royals,135,0.795,135.795
+Tigers,Rangers,135,0.795,135.795
+Indians,White Sox,135,0.799,135.799
+Blue Jays,Astros,135,0.799,135.799
+Cubs,Brewers,135,0.799,135.799
+Reds,Cardinals,135,0.802,135.802
+Rockies,Padres,135,0.861,135.861
+Angels,Mariners,135,0.882,135.882
+Mets,Dodgers,135,0.882,135.882
+Nationals,Orioles,136,0.545,136.545
+Giants,Phillies,136,0.545,136.545
+Braves,Marlins,136,0.549,136.549
+Red Sox,Rays,136,0.549,136.549
+Diamondbacks,Pirates,136,0.566,136.566
+Twins,Royals,136,0.587,136.587
+Athletics,Yankees,136,0.587,136.587
+Indians,White Sox,136,0.590,136.590
+Blue Jays,Astros,136,0.590,136.590
+Cubs,Brewers,136,0.590,136.590
+Reds,Cardinals,136,0.594,136.594
+Tigers,Rangers,136,0.608,136.608
+Rockies,Padres,136,0.674,136.674
+Angels,Mariners,136,0.674,136.674
+Mets,Dodgers,136,0.674,136.674
+Giants,Phillies,137,0.545,137.545
+Athletics,Nationals,137,0.795,137.795
+Twins,Red Sox,137,0.799,137.799
+Blue Jays,Rays,137,0.799,137.799
+Pirates,Cardinals,137,0.823,137.823
+Yankees,Royals,137,0.837,137.837
+Angels,White Sox,137,0.840,137.840
+Rockies,Diamondbacks,137,0.903,137.903
+Astros,Mariners,137,0.924,137.924
+Athletics,Nationals,138,0.795,138.795
+Twins,Red Sox,138,0.799,138.799
+Braves,Mets,138,0.799,138.799
+Orioles,Tigers,138,0.799,138.799
+Cubs,Reds,138,0.799,138.799
+Padres,Indians,138,0.799,138.799
+Blue Jays,Rays,138,0.799,138.799
+Pirates,Cardinals,138,0.823,138.823
+Yankees,Royals,138,0.837,138.837
+Phillies,Rangers,138,0.837,138.837
+Angels,White Sox,138,0.840,138.840
+Marlins,Brewers,138,0.840,138.840
+Rockies,Diamondbacks,138,0.903,138.903
+Dodgers,Giants,138,0.906,138.906
+Astros,Mariners,138,0.924,138.924
+Padres,Indians,139,0.549,139.549
+Yankees,Royals,139,0.566,139.566
+Angels,White Sox,139,0.590,139.590
+Astros,Mariners,139,0.674,139.674
+Athletics,Nationals,139,0.795,139.795
+Twins,Red Sox,139,0.799,139.799
+Braves,Mets,139,0.799,139.799
+Orioles,Tigers,139,0.799,139.799
+Cubs,Reds,139,0.799,139.799
+Blue Jays,Rays,139,0.799,139.799
+Pirates,Cardinals,139,0.823,139.823
+Phillies,Rangers,139,0.837,139.837
+Marlins,Brewers,139,0.840,139.840
+Rockies,Diamondbacks,139,0.903,139.903
+Dodgers,Giants,139,0.906,139.906
+Braves,Mets,140,0.507,140.507
+Twins,Red Sox,140,0.545,140.545
+Orioles,Tigers,140,0.549,140.549
+Blue Jays,Rays,140,0.549,140.549
+Marlins,Brewers,140,0.590,140.590
+Rockies,Diamondbacks,140,0.653,140.653
+Dodgers,Giants,140,0.656,140.656
+Padres,Nationals,140,0.712,140.712
+Pirates,Reds,140,0.715,140.715
+Yankees,White Sox,140,0.806,140.806
+Astros,Angels,140,0.922,140.922
+Padres,Nationals,141,0.795,141.795
+Cubs,Blue Jays,141,0.797,141.797
+Athletics,Red Sox,141,0.799,141.799
+Phillies,Mets,141,0.799,141.799
+Rangers,Tigers,141,0.799,141.799
+Pirates,Reds,141,0.799,141.799
+Mariners,Indians,141,0.799,141.799
+Orioles,Rays,141,0.799,141.799
+Marlins,Braves,141,0.806,141.806
+Royals,Twins,141,0.840,141.840
+Brewers,Cardinals,141,0.844,141.844
+Astros,Angels,141,0.922,141.922
+Diamondbacks,Dodgers,141,0.924,141.924
+Rockies,Giants,141,0.927,141.927
+Orioles,Rays,142,0.549,142.549
+Cubs,Blue Jays,142,0.630,142.630
+Athletics,Red Sox,142,0.670,142.670
+Phillies,Mets,142,0.670,142.670
+Rockies,Giants,142,0.670,142.670
+Pirates,Reds,142,0.674,142.674
+Rangers,Tigers,142,0.757,142.757
+Padres,Nationals,142,0.795,142.795
+Royals,Twins,142,0.799,142.799
+Yankees,White Sox,142,0.799,142.799
+Mariners,Indians,142,0.799,142.799
+Brewers,Cardinals,142,0.802,142.802
+Marlins,Braves,142,0.806,142.806
+Astros,Angels,142,0.880,142.880
+Diamondbacks,Dodgers,142,0.882,142.882
+Athletics,Red Sox,143,0.545,143.545
+Cubs,Blue Jays,143,0.547,143.547
+Phillies,Mets,143,0.549,143.549
+Rangers,Tigers,143,0.549,143.549
+Pirates,Reds,143,0.549,143.549
+Mariners,Indians,143,0.549,143.549
+Orioles,Rays,143,0.549,143.549
+Marlins,Braves,143,0.556,143.556
+Padres,Nationals,143,0.566,143.566
+Royals,Twins,143,0.590,143.590
+Yankees,White Sox,143,0.590,143.590
+Brewers,Cardinals,143,0.594,143.594
+Rockies,Giants,143,0.670,143.670
+Astros,Angels,143,0.672,143.672
+Diamondbacks,Dodgers,143,0.674,143.674
+Rangers,Orioles,144,0.795,144.795
+Rays,Yankees,144,0.795,144.795
+Brewers,Braves,144,0.806,144.806
+Dodgers,Cubs,144,0.837,144.837
+Mariners,Astros,144,0.840,144.840
+Nationals,Rockies,144,0.861,144.861
+Royals,Diamondbacks,144,0.903,144.903
+Indians,Athletics,144,0.922,144.922
+Tigers,Pirates,145,0.795,145.795
+Rangers,Orioles,145,0.795,145.795
+Rays,Yankees,145,0.795,145.795
+Cardinals,Blue Jays,145,0.797,145.797
+Reds,Red Sox,145,0.799,145.799
+Phillies,Marlins,145,0.799,145.799
+Brewers,Braves,145,0.806,145.806
+Dodgers,Cubs,145,0.837,145.837
+White Sox,Twins,145,0.840,145.840
+Mariners,Astros,145,0.840,145.840
+Nationals,Rockies,145,0.861,145.861
+Royals,Diamondbacks,145,0.903,145.903
+Mets,Angels,145,0.922,145.922
+Indians,Athletics,145,0.922,145.922
+Giants,Padres,145,0.924,145.924
+Rays,Yankees,146,0.545,146.545
+White Sox,Twins,146,0.549,146.549
+Mariners,Astros,146,0.590,146.590
+Indians,Athletics,146,0.651,146.651
+Tigers,Pirates,146,0.795,146.795
+Rangers,Orioles,146,0.795,146.795
+Cardinals,Blue Jays,146,0.797,146.797
+Reds,Red Sox,146,0.799,146.799
+Phillies,Marlins,146,0.799,146.799
+Brewers,Braves,146,0.806,146.806
+Dodgers,Cubs,146,0.837,146.837
+Nationals,Rockies,146,0.861,146.861
+Giants,Padres,146,0.882,146.882
+Mets,Angels,146,0.922,146.922
+Dodgers,Cubs,147,0.597,147.597
+Nationals,Rockies,147,0.632,147.632
+Marlins,Pirates,147,0.795,147.795
+Red Sox,Orioles,147,0.795,147.795
+Blue Jays,Yankees,147,0.795,147.795
+Indians,Royals,147,0.837,147.837
+Reds,Brewers,147,0.840,147.840
+Giants,Diamondbacks,147,0.903,147.903
+Mets,Angels,147,0.922,147.922
+White Sox,Mariners,147,0.924,147.924
+Cardinals,Cubs,148,0.597,148.597
+Marlins,Pirates,148,0.795,148.795
+Red Sox,Orioles,148,0.795,148.795
+Blue Jays,Yankees,148,0.795,148.795
+Braves,Phillies,148,0.795,148.795
+Indians,Royals,148,0.837,148.837
+Tigers,Twins,148,0.840,148.840
+Rangers,Astros,148,0.840,148.840
+Reds,Brewers,148,0.840,148.840
+Dodgers,Rockies,148,0.861,148.861
+Giants,Diamondbacks,148,0.903,148.903
+Rays,Angels,148,0.922,148.922
+Mets,Athletics,148,0.922,148.922
+Nationals,Padres,148,0.924,148.924
+White Sox,Mariners,148,0.924,148.924
+Blue Jays,Yankees,149,0.545,149.545
+Red Sox,Orioles,149,0.670,149.670
+Cardinals,Cubs,149,0.670,149.670
+Braves,Phillies,149,0.753,149.753
+Marlins,Pirates,149,0.795,149.795
+Indians,Royals,149,0.795,149.795
+Tigers,Twins,149,0.799,149.799
+Rangers,Astros,149,0.799,149.799
+Reds,Brewers,149,0.799,149.799
+Giants,Diamondbacks,149,0.840,149.840
+Dodgers,Rockies,149,0.840,149.840
+Nationals,Padres,149,0.861,149.861
+Rays,Angels,149,0.880,149.880
+White Sox,Mariners,149,0.882,149.882
+Mets,Athletics,149,0.901,149.901
+Blue Jays,Yankees,150,0.545,150.545
+Braves,Phillies,150,0.545,150.545
+Marlins,Pirates,150,0.566,150.566
+Indians,Royals,150,0.587,150.587
+Tigers,Twins,150,0.590,150.590
+Rangers,Astros,150,0.590,150.590
+Reds,Brewers,150,0.590,150.590
+Cardinals,Cubs,150,0.597,150.597
+Dodgers,Rockies,150,0.632,150.632
+Rays,Angels,150,0.672,150.672
+Mets,Athletics,150,0.672,150.672
+Nationals,Padres,150,0.674,150.674
+White Sox,Mariners,150,0.674,150.674
+Giants,Diamondbacks,150,0.674,150.674
+Red Sox,Orioles,150,0.799,150.799
+Pirates,Phillies,151,0.795,151.795
+Astros,Tigers,151,0.799,151.799
+Cardinals,Reds,151,0.799,151.799
+Blue Jays,Royals,151,0.837,151.837
+Rockies,Rangers,151,0.837,151.837
+Padres,Giants,151,0.906,151.906
+Rays,Mariners,151,0.924,151.924
+Mets,Nationals,152,0.795,152.795
+Orioles,Yankees,152,0.795,152.795
+Pirates,Phillies,152,0.795,152.795
+Astros,Tigers,152,0.799,152.799
+Cardinals,Reds,152,0.799,152.799
+Cubs,Marlins,152,0.799,152.799
+Diamondbacks,Indians,152,0.799,152.799
+Athletics,Braves,152,0.806,152.806
+Blue Jays,Royals,152,0.837,152.837
+Rockies,Rangers,152,0.837,152.837
+Red Sox,White Sox,152,0.840,152.840
+Twins,Brewers,152,0.840,152.840
+Padres,Giants,152,0.906,152.906
+Rays,Mariners,152,0.924,152.924
+Angels,Dodgers,152,0.924,152.924
+Cardinals,Reds,153,0.524,153.524
+Orioles,Yankees,153,0.545,153.545
+Twins,Brewers,153,0.590,153.590
+Rays,Mariners,153,0.674,153.674
+Mets,Nationals,153,0.795,153.795
+Pirates,Phillies,153,0.795,153.795
+Astros,Tigers,153,0.799,153.799
+Cubs,Marlins,153,0.799,153.799
+Diamondbacks,Indians,153,0.799,153.799
+Athletics,Braves,153,0.806,153.806
+Blue Jays,Royals,153,0.837,153.837
+Red Sox,White Sox,153,0.840,153.840
+Padres,Giants,153,0.906,153.906
+Angels,Dodgers,153,0.924,153.924
+Diamondbacks,Indians,154,0.549,154.549
+Astros,Tigers,154,0.549,154.549
+Mets,Nationals,154,0.795,154.795
+Athletics,Blue Jays,154,0.797,154.797
+Brewers,Reds,154,0.799,154.799
+Cubs,Marlins,154,0.799,154.799
+Rockies,Braves,154,0.806,154.806
+Orioles,Rangers,154,0.837,154.837
+Red Sox,White Sox,154,0.840,154.840
+Padres,Dodgers,154,0.924,154.924
+Phillies,Nationals,155,0.795,155.795
+Athletics,Blue Jays,155,0.797,155.797
+Cubs,Mets,155,0.799,155.799
+Brewers,Reds,155,0.799,155.799
+Diamondbacks,Marlins,155,0.799,155.799
+Yankees,Indians,155,0.799,155.799
+Red Sox,Tigers,155,0.799,155.799
+Twins,Rays,155,0.799,155.799
+Rockies,Braves,155,0.806,155.806
+Orioles,Rangers,155,0.837,155.837
+Astros,White Sox,155,0.840,155.840
+Pirates,Cardinals,155,0.844,155.844
+Angels,Mariners,155,0.924,155.924
+Padres,Dodgers,155,0.924,155.924
+Royals,Giants,155,0.927,155.927
+Athletics,Blue Jays,156,0.630,156.630
+Twins,Rays,156,0.670,156.670
+Phillies,Nationals,156,0.670,156.670
+Diamondbacks,Marlins,156,0.757,156.757
+Red Sox,Tigers,156,0.757,156.757
+Orioles,Rangers,156,0.795,156.795
+Cubs,Mets,156,0.799,156.799
+Astros,White Sox,156,0.799,156.799
+Brewers,Reds,156,0.799,156.799
+Yankees,Indians,156,0.799,156.799
+Pirates,Cardinals,156,0.802,156.802
+Rockies,Braves,156,0.806,156.806
+Royals,Giants,156,0.878,156.878
+Angels,Mariners,156,0.882,156.882
+Padres,Dodgers,156,0.882,156.882
+Athletics,Blue Jays,157,0.547,157.547
+Twins,Rays,157,0.549,157.549
+Cubs,Mets,157,0.549,157.549
+Brewers,Reds,157,0.549,157.549
+Diamondbacks,Marlins,157,0.549,157.549
+Yankees,Indians,157,0.549,157.549
+Red Sox,Tigers,157,0.549,157.549
+Rockies,Braves,157,0.556,157.556
+Phillies,Nationals,157,0.566,157.566
+Astros,White Sox,157,0.590,157.590
+Pirates,Cardinals,157,0.594,157.594
+Orioles,Rangers,157,0.608,157.608
+Royals,Giants,157,0.670,157.670
+Angels,Mariners,157,0.674,157.674
+Padres,Dodgers,157,0.674,157.674
+Diamondbacks,Marlins,158,0.549,158.549
+Orioles,Reds,158,0.778,158.778
+Brewers,Pirates,158,0.795,158.795
+White Sox,Rays,158,0.799,158.799
+Yankees,Red Sox,158,0.799,158.799
+Rockies,Mets,158,0.799,158.799
+Phillies,Cardinals,158,0.823,158.823
+Giants,Cubs,158,0.837,158.837
+Indians,Twins,158,0.840,158.840
+Rangers,Angels,158,0.922,158.922
+Royals,Athletics,158,0.922,158.922
+Orioles,Reds,159,0.778,159.778
+Brewers,Pirates,159,0.795,159.795
+Braves,Nationals,159,0.795,159.795
+Tigers,Blue Jays,159,0.797,159.797
+White Sox,Rays,159,0.799,159.799
+Yankees,Red Sox,159,0.799,159.799
+Rockies,Mets,159,0.799,159.799
+Phillies,Cardinals,159,0.823,159.823
+Giants,Cubs,159,0.837,159.837
+Indians,Twins,159,0.840,159.840
+Marlins,Astros,159,0.840,159.840
+Dodgers,Diamondbacks,159,0.903,159.903
+Rangers,Angels,159,0.922,159.922
+Royals,Athletics,159,0.922,159.922
+Mariners,Padres,159,0.924,159.924
+Orioles,Reds,160,0.524,160.524
+Giants,Cubs,160,0.597,160.597
+Royals,Athletics,160,0.651,160.651
+Brewers,Pirates,160,0.795,160.795
+Braves,Nationals,160,0.795,160.795
+Tigers,Blue Jays,160,0.797,160.797
+White Sox,Rays,160,0.799,160.799
+Yankees,Red Sox,160,0.799,160.799
+Rockies,Mets,160,0.799,160.799
+Phillies,Cardinals,160,0.823,160.823
+Indians,Twins,160,0.840,160.840
+Marlins,Astros,160,0.840,160.840
+Mariners,Padres,160,0.882,160.882
+Dodgers,Diamondbacks,160,0.903,160.903
+Rangers,Angels,160,0.922,160.922
+Brewers,Pirates,161,0.524,161.524
+White Sox,Rays,161,0.549,161.549
+Indians,Twins,161,0.549,161.549
+Rockies,Mets,161,0.549,161.549
+Phillies,Cardinals,161,0.552,161.552
+Braves,Nationals,161,0.670,161.670
+Tigers,Blue Jays,161,0.797,161.797
+Marlins,Astros,161,0.819,161.819
+Rangers,Angels,161,0.922,161.922
+Giants,Padres,161,0.924,161.924
+Reds,Cubs,162,0.597,162.597
+Braves,Pirates,162,0.795,162.795
+Yankees,Orioles,162,0.795,162.795
+Marlins,Phillies,162,0.795,162.795
+Rays,Blue Jays,162,0.797,162.797
+Tigers,Red Sox,162,0.799,162.799
+Nationals,Mets,162,0.799,162.799
+White Sox,Twins,162,0.840,162.840
+Mariners,Astros,162,0.840,162.840
+Dodgers,Brewers,162,0.840,162.840
+Indians,Rockies,162,0.861,162.861
+Cardinals,Diamondbacks,162,0.903,162.903
+Royals,Angels,162,0.922,162.922
+Rangers,Athletics,162,0.922,162.922
+Giants,Padres,162,0.924,162.924
+Reds,Cubs,163,0.597,163.597
+Rays,Blue Jays,163,0.630,163.630
+Marlins,Phillies,163,0.670,163.670
+Indians,Rockies,163,0.670,163.670
+Rangers,Athletics,163,0.672,163.672
+Cardinals,Diamondbacks,163,0.674,163.674
+Braves,Pirates,163,0.795,163.795
+Yankees,Orioles,163,0.795,163.795
+White Sox,Twins,163,0.799,163.799
+Tigers,Red Sox,163,0.799,163.799
+Nationals,Mets,163,0.799,163.799
+Mariners,Astros,163,0.799,163.799
+Dodgers,Brewers,163,0.799,163.799
+Giants,Padres,163,0.861,163.861
+Royals,Angels,163,0.880,163.880
+Yankees,Orioles,164,0.545,164.545
+Tigers,Red Sox,164,0.545,164.545
+Marlins,Phillies,164,0.545,164.545
+Rays,Blue Jays,164,0.547,164.547
+Nationals,Mets,164,0.549,164.549
+Braves,Pirates,164,0.566,164.566
+White Sox,Twins,164,0.590,164.590
+Mariners,Astros,164,0.590,164.590
+Dodgers,Brewers,164,0.590,164.590
+Reds,Cubs,164,0.597,164.597
+Indians,Rockies,164,0.632,164.632
+Royals,Angels,164,0.672,164.672
+Rangers,Athletics,164,0.672,164.672
+Giants,Padres,164,0.674,164.674
+Cardinals,Diamondbacks,164,0.674,164.674
+Yankees,Orioles,165,0.545,165.545
+Tigers,Red Sox,165,0.545,165.545
+Marlins,Phillies,165,0.587,165.587
+Dodgers,Brewers,165,0.590,165.590
+Cubs,Rockies,165,0.632,165.632
+Diamondbacks,Padres,165,0.653,165.653
+Mets,Braves,165,0.674,165.674
+Cardinals,Giants,165,0.753,165.753
+Athletics,Royals,165,0.837,165.837
+Mariners,Rangers,165,0.837,165.837
+Astros,Angels,165,0.838,165.838
+Twins,Indians,166,0.757,166.757
+Blue Jays,Orioles,166,0.774,166.774
+Rays,Marlins,166,0.778,166.778
+Pirates,Tigers,166,0.778,166.778
+Red Sox,Yankees,166,0.795,166.795
+Nationals,Phillies,166,0.795,166.795
+Mets,Braves,166,0.806,166.806
+Reds,Brewers,166,0.819,166.819
+Athletics,Royals,166,0.837,166.837
+Mariners,Rangers,166,0.837,166.837
+Dodgers,White Sox,166,0.840,166.840
+Cubs,Rockies,166,0.861,166.861
+Cardinals,Giants,166,0.906,166.906
+Astros,Angels,166,0.922,166.922
+Diamondbacks,Padres,166,0.924,166.924
+Mets,Braves,167,0.514,167.514
+Pirates,Tigers,167,0.549,167.549
+Cardinals,Giants,167,0.656,167.656
+Reds,Brewers,167,0.674,167.674
+Twins,Indians,167,0.757,167.757
+Blue Jays,Orioles,167,0.774,167.774
+Rays,Marlins,167,0.778,167.778
+Red Sox,Yankees,167,0.795,167.795
+Nationals,Phillies,167,0.795,167.795
+Athletics,Royals,167,0.837,167.837
+Mariners,Rangers,167,0.837,167.837
+Dodgers,White Sox,167,0.840,167.840
+Cubs,Rockies,167,0.861,167.861
+Astros,Angels,167,0.922,167.922
+Diamondbacks,Padres,167,0.924,167.924
+Athletics,Royals,168,0.566,168.566
+Mariners,Rangers,168,0.587,168.587
+Dodgers,White Sox,168,0.590,168.590
+Diamondbacks,Padres,168,0.653,168.653
+Nationals,Phillies,168,0.753,168.753
+Twins,Indians,168,0.757,168.757
+Blue Jays,Orioles,168,0.774,168.774
+Red Sox,Yankees,168,0.795,168.795
+Cubs,Cardinals,168,0.802,168.802
+Reds,Giants,168,0.906,168.906
+Mets,Pirates,169,0.795,169.795
+Brewers,Orioles,169,0.795,169.795
+Blue Jays,Yankees,169,0.795,169.795
+Rays,Red Sox,169,0.799,169.799
+Nationals,Marlins,169,0.799,169.799
+Angels,Indians,169,0.799,169.799
+Twins,Tigers,169,0.799,169.799
+Phillies,Braves,169,0.806,169.806
+White Sox,Royals,169,0.837,169.837
+Astros,Rangers,169,0.837,169.837
+Cubs,Cardinals,169,0.844,169.844
+Padres,Rockies,169,0.861,169.861
+Athletics,Mariners,169,0.924,169.924
+Diamondbacks,Dodgers,169,0.924,169.924
+Reds,Giants,169,0.927,169.927
+Blue Jays,Yankees,170,0.545,170.545
+Rays,Red Sox,170,0.670,170.670
+Reds,Giants,170,0.670,170.670
+Nationals,Marlins,170,0.757,170.757
+Angels,Indians,170,0.757,170.757
+Twins,Tigers,170,0.757,170.757
+Mets,Pirates,170,0.795,170.795
+Brewers,Orioles,170,0.795,170.795
+White Sox,Royals,170,0.795,170.795
+Astros,Rangers,170,0.795,170.795
+Cubs,Cardinals,170,0.802,170.802
+Phillies,Braves,170,0.806,170.806
+Padres,Rockies,170,0.840,170.840
+Athletics,Mariners,170,0.882,170.882
+Diamondbacks,Dodgers,170,0.882,170.882
+Brewers,Orioles,171,0.545,171.545
+Rays,Red Sox,171,0.545,171.545
+Blue Jays,Yankees,171,0.545,171.545
+Nationals,Marlins,171,0.549,171.549
+Angels,Indians,171,0.549,171.549
+Twins,Tigers,171,0.549,171.549
+Phillies,Braves,171,0.556,171.556
+Mets,Pirates,171,0.566,171.566
+White Sox,Royals,171,0.587,171.587
+Cubs,Cardinals,171,0.594,171.594
+Astros,Rangers,171,0.608,171.608
+Padres,Rockies,171,0.632,171.632
+Reds,Giants,171,0.670,171.670
+Athletics,Mariners,171,0.674,171.674
+Diamondbacks,Dodgers,171,0.674,171.674
+Tigers,Indians,172,0.757,172.757
+Yankees,Rays,172,0.799,172.799
+Pirates,Cubs,172,0.819,172.819
+Angels,Astros,172,0.840,172.840
+Giants,Diamondbacks,172,0.903,172.903
+White Sox,Athletics,172,0.922,172.922
+Padres,Mariners,172,0.924,172.924
+Tigers,Indians,173,0.757,173.757
+Red Sox,Reds,173,0.778,173.778
+Orioles,Nationals,173,0.795,173.795
+Phillies,Blue Jays,173,0.797,173.797
+Yankees,Rays,173,0.799,173.799
+Marlins,Mets,173,0.799,173.799
+Rangers,Twins,173,0.819,173.819
+Pirates,Cubs,173,0.819,173.819
+Braves,Brewers,173,0.819,173.819
+Royals,Cardinals,173,0.823,173.823
+Angels,Astros,173,0.840,173.840
+Giants,Diamondbacks,173,0.903,173.903
+White Sox,Athletics,173,0.922,173.922
+Padres,Mariners,173,0.924,173.924
+Rockies,Dodgers,173,0.924,173.924
+Tigers,Indians,174,0.549,174.549
+Royals,Cardinals,174,0.552,174.552
+White Sox,Athletics,174,0.651,174.651
+Red Sox,Reds,174,0.778,174.778
+Orioles,Nationals,174,0.795,174.795
+Phillies,Blue Jays,174,0.797,174.797
+Yankees,Rays,174,0.799,174.799
+Marlins,Mets,174,0.799,174.799
+Rangers,Twins,174,0.819,174.819
+Pirates,Cubs,174,0.819,174.819
+Braves,Brewers,174,0.819,174.819
+Giants,Diamondbacks,174,0.903,174.903
+Rockies,Dodgers,174,0.924,174.924
+Pirates,Cubs,175,0.597,175.597
+Cardinals,Reds,175,0.778,175.778
+Red Sox,Rays,175,0.799,175.799
+Marlins,Mets,175,0.799,175.799
+Rangers,Twins,175,0.819,175.819
+Braves,Brewers,175,0.819,175.819
+Royals,White Sox,175,0.840,175.840
+Orioles,Astros,175,0.840,175.840
+Padres,Diamondbacks,175,0.903,175.903
+Angels,Athletics,175,0.922,175.922
+Indians,Mariners,175,0.924,175.924
+Rockies,Cubs,176,0.597,176.597
+Marlins,Nationals,176,0.795,176.795
+Braves,Phillies,176,0.795,176.795
+Yankees,Blue Jays,176,0.797,176.797
+Red Sox,Rays,176,0.799,176.799
+Rangers,Mets,176,0.799,176.799
+Cardinals,Reds,176,0.799,176.799
+Tigers,Twins,176,0.840,176.840
+Royals,White Sox,176,0.840,176.840
+Orioles,Astros,176,0.840,176.840
+Pirates,Brewers,176,0.840,176.840
+Padres,Diamondbacks,176,0.903,176.903
+Angels,Athletics,176,0.922,176.922
+Indians,Mariners,176,0.924,176.924
+Giants,Dodgers,176,0.924,176.924
+Rockies,Cubs,177,0.597,177.597
+Yankees,Blue Jays,177,0.630,177.630
+Marlins,Nationals,177,0.670,177.670
+Braves,Phillies,177,0.670,177.670
+Cardinals,Reds,177,0.674,177.674
+Red Sox,Rays,177,0.757,177.757
+Tigers,Twins,177,0.799,177.799
+Rangers,Mets,177,0.799,177.799
+Royals,White Sox,177,0.799,177.799
+Orioles,Astros,177,0.799,177.799
+Pirates,Brewers,177,0.799,177.799
+Padres,Diamondbacks,177,0.840,177.840
+Angels,Athletics,177,0.880,177.880
+Indians,Mariners,177,0.882,177.882
+Giants,Dodgers,177,0.882,177.882
+Braves,Phillies,178,0.545,178.545
+Yankees,Blue Jays,178,0.547,178.547
+Red Sox,Rays,178,0.549,178.549
+Rangers,Mets,178,0.549,178.549
+Cardinals,Reds,178,0.549,178.549
+Marlins,Nationals,178,0.566,178.566
+Tigers,Twins,178,0.590,178.590
+Royals,White Sox,178,0.590,178.590
+Orioles,Astros,178,0.590,178.590
+Pirates,Brewers,178,0.590,178.590
+Rockies,Cubs,178,0.597,178.597
+Angels,Athletics,178,0.672,178.672
+Indians,Mariners,178,0.674,178.674
+Giants,Dodgers,178,0.674,178.674
+Padres,Diamondbacks,178,0.674,178.674
+Rays,Orioles,179,0.774,179.774
+Reds,Marlins,179,0.778,179.778
+Astros,Yankees,179,0.795,179.795
+Mets,Phillies,179,0.795,179.795
+Nationals,Braves,179,0.806,179.806
+Brewers,Cardinals,179,0.823,179.823
+Tigers,Royals,179,0.837,179.837
+Indians,White Sox,179,0.840,179.840
+Rays,Orioles,180,0.774,180.774
+Reds,Marlins,180,0.778,180.778
+Cubs,Pirates,180,0.795,180.795
+Astros,Yankees,180,0.795,180.795
+Mets,Phillies,180,0.795,180.795
+Blue Jays,Red Sox,180,0.799,180.799
+Nationals,Braves,180,0.806,180.806
+Brewers,Cardinals,180,0.823,180.823
+Tigers,Royals,180,0.837,180.837
+Athletics,Rangers,180,0.837,180.837
+Indians,White Sox,180,0.840,180.840
+Dodgers,Rockies,180,0.861,180.861
+Diamondbacks,Giants,180,0.906,180.906
+Mariners,Angels,180,0.922,180.922
+Twins,Padres,180,0.924,180.924
+Indians,White Sox,181,0.590,181.590
+Brewers,Cardinals,181,0.677,181.677
+Rays,Orioles,181,0.774,181.774
+Reds,Marlins,181,0.778,181.778
+Cubs,Pirates,181,0.795,181.795
+Astros,Yankees,181,0.795,181.795
+Mets,Phillies,181,0.795,181.795
+Blue Jays,Red Sox,181,0.799,181.799
+Nationals,Braves,181,0.806,181.806
+Tigers,Royals,181,0.837,181.837
+Athletics,Rangers,181,0.837,181.837
+Dodgers,Rockies,181,0.861,181.861
+Diamondbacks,Giants,181,0.906,181.906
+Mariners,Angels,181,0.922,181.922
+Twins,Padres,181,0.924,181.924
+Twins,Padres,182,0.653,182.653
+Mets,Phillies,182,0.753,182.753
+Rays,Orioles,182,0.774,182.774
+Reds,Pirates,182,0.795,182.795
+Astros,Yankees,182,0.795,182.795
+Blue Jays,Red Sox,182,0.799,182.799
+Nationals,Braves,182,0.806,182.806
+Tigers,Royals,182,0.837,182.837
+Athletics,Rangers,182,0.837,182.837
+Dodgers,Rockies,182,0.861,182.861
+Brewers,Giants,182,0.906,182.906
+Mariners,Angels,182,0.922,182.922
+Cardinals,Cubs,183,0.597,183.597
+Reds,Pirates,183,0.795,183.795
+Phillies,Nationals,183,0.795,183.795
+Rays,Yankees,183,0.795,183.795
+Orioles,Red Sox,183,0.799,183.799
+Mets,Marlins,183,0.799,183.799
+Blue Jays,Indians,183,0.799,183.799
+White Sox,Tigers,183,0.799,183.799
+Astros,Braves,183,0.806,183.806
+Twins,Royals,183,0.837,183.837
+Mariners,Rangers,183,0.837,183.837
+Diamondbacks,Rockies,183,0.840,183.840
+Athletics,Angels,183,0.922,183.922
+Dodgers,Padres,183,0.924,183.924
+Brewers,Giants,183,0.927,183.927
+Orioles,Red Sox,184,0.545,184.545
+Phillies,Nationals,184,0.545,184.545
+Rays,Yankees,184,0.545,184.545
+Cardinals,Cubs,184,0.597,184.597
+White Sox,Tigers,184,0.757,184.757
+Mets,Marlins,184,0.757,184.757
+Blue Jays,Indians,184,0.757,184.757
+Reds,Pirates,184,0.795,184.795
+Twins,Royals,184,0.795,184.795
+Mariners,Rangers,184,0.795,184.795
+Astros,Braves,184,0.802,184.802
+Diamondbacks,Rockies,184,0.840,184.840
+Dodgers,Padres,184,0.861,184.861
+Brewers,Giants,184,0.878,184.878
+Athletics,Angels,184,0.880,184.880
+Reds,Pirates,185,0.628,185.628
+Twins,Royals,185,0.628,185.628
+Orioles,Red Sox,185,0.628,185.628
+Phillies,Nationals,185,0.628,185.628
+Brewers,Giants,185,0.628,185.628
+Rays,Yankees,185,0.628,185.628
+Mariners,Rangers,185,0.628,185.628
+Athletics,Angels,185,0.630,185.630
+White Sox,Tigers,185,0.632,185.632
+Dodgers,Padres,185,0.632,185.632
+Mets,Marlins,185,0.632,185.632
+Blue Jays,Indians,185,0.632,185.632
+Diamondbacks,Rockies,185,0.632,185.632
+Cardinals,Cubs,185,0.639,185.639
+Astros,Braves,185,0.639,185.639

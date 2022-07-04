@@ -1,9 +1,8 @@
-### Description 
+## What does this change do?
 
-<!-- Put background info and other relevant information here -->
+## Github Issue Number?
 
-
-#### References
-
-- _Github Issue Ref:_ <!-- https://github.com/thundergolfer/example-bazel-monorepo/issues/XXX -->
-- _Github Project Ref:_ <!-- https://github.com/thundergolfer/example-bazel-monorepo/projects/ -->
+## Merge Checklist
+- [ ] Summary is written in imperative mood
+- [ ] Pre-merge checks pass
+- [ ] Commits Squashed

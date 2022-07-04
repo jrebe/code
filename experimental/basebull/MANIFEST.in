@@ -1,0 +1,3 @@
+include basebull/data/*.csv
+include basebull/data/*.txt
+include requirements.txt

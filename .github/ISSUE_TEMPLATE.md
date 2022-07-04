@@ -1,8 +1,7 @@
-## What does this change do?
+## Issue Description
 
-## Github Issue Number?
 
-## Merge Checklist
-- [ ] Summary is written in imperative mood
-- [ ] Pre-merge checks pass
-- [ ] Commits Squashed
+### When Issue Happens
+
+
+### Steps To Reproduce (if relevant)
