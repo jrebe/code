@@ -17,3 +17,12 @@ Using Ubuntu 20.04 as a base
 ### Testing
 
 `bazel test //...`
+
+## Dependencies
+
+Each language has its own import requirements.
+
+### Python
+
+Add the new sorted requirements to `third_party/requirements.in` and run `bazel run //third_party:requirements.update`
+
