@@ -1,0 +1,33 @@
+py_library(
+    name = "google_maps",
+    srcs = ["google_maps.py"],
+    visibility = ["//visibility:public"],
+    deps = [
+        "//lib/util:cached_session",
+        "@py_deps//pypi__googlemaps",
+        "@py_deps//pypi__pillow",
+    ],
+)
+
+py_test(
+    name = "google_maps_test",
+    srcs = ["google_maps_test.py"],
+    deps = [":google_maps"],
+)
+
+py_library(
+    name = "static_map",
+    srcs = ["static_map.py"],
+    visibility = ["//visibility:public"],
+    deps = [
+        ":google_maps",
+        "//lib/util:cached_session",
+        "@py_deps//pypi__pillow",
+    ],
+)
+
+py_test(
+    name = "static_map_test",
+    srcs = ["static_map_test.py"],
+    deps = [":static_map"],
+)

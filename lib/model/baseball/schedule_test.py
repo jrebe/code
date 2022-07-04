@@ -3,7 +3,7 @@
 
 import unittest
 
-from basebull.model.schedule import Game, ranges, ranges_with_gap, Schedule
+from lib.model.baseball.schedule import Game, ranges, ranges_with_gap, Schedule
 
 
 class TestScheduleModel(unittest.TestCase):

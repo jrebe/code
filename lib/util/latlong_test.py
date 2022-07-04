@@ -4,7 +4,7 @@
 import math
 import unittest
 
-from basebull.utils.latlong import distance, R
+from lib.util.latlong import distance, R
 
 
 class TestUtilMethods(unittest.TestCase):

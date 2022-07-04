@@ -3,7 +3,7 @@
 import unittest
 from unittest.mock import patch
 
-from basebull.view.static_map import StaticMap, StaticMapsUrl
+from lib.map.static_map import StaticMap, StaticMapsUrl
 
 
 class TestUtilGoogleMaps(unittest.TestCase):
@@ -30,7 +30,7 @@ class TestUtilGoogleMaps(unittest.TestCase):
         self.assertIsNotNone(features_url)
         self.assertEqual(str(features_url.url), features_string)
 
-    @patch("basebull.utils.cached_session.CachedSession.get")
+    @patch("lib.util.cached_session.CachedSession.get")
     @patch("PIL.ImageFile.Parser")
     def test_get_static_map(self, mock_image, mock_get):
         """Test static map."""

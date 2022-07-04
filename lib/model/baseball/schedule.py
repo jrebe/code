@@ -9,7 +9,7 @@ import pandas as pd
 
 
 THIS_DIRECTORY = os.path.dirname(__file__)
-DATAFILE_PATH = os.path.join(THIS_DIRECTORY, os.pardir, "data", "schedule_mlb_2020.csv")
+DATAFILE_PATH = os.path.join(THIS_DIRECTORY, "schedule_mlb_2020.csv")
 
 
 TEAM_LIST = [

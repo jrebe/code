@@ -4,7 +4,7 @@
 import unittest
 from unittest.mock import Mock, patch
 
-import basebull.utils.google_maps as gmaps
+import lib.map.google_maps as gmaps
 
 DIRECTION_RESULTS = [
     {
@@ -39,7 +39,7 @@ DIRECTION_RESULTS = [
 ]
 
 
-@patch("basebull.utils.google_maps.get_maps_client")
+@patch("lib.map.google_maps.get_maps_client")
 class TestUtilGoogleMaps(unittest.TestCase):
     """Tests all maps methods."""
 

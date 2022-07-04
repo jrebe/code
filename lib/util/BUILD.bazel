@@ -1,0 +1,42 @@
+load("@py_deps//:requirements.bzl", "requirement")
+
+py_library(
+    name = "cached_session",
+    srcs = ["cached_session.py"],
+    visibility = ["//visibility:public"],
+    deps = [
+        "@py_deps//pypi__cachecontrol",
+        "@py_deps//pypi__lockfile",
+        "@py_deps//pypi__requests",
+    ],
+)
+
+py_test(
+    name = "cached_session_test",
+    srcs = ["cached_session_test.py"],
+    deps = [":cached_session"],
+)
+
+py_library(
+    name = "distance_matrix_projector",
+    srcs = ["distance_matrix_projector.py"],
+    visibility = ["//visibility:public"],
+)
+
+py_test(
+    name = "distance_matrix_projector_test",
+    srcs = ["distance_matrix_projector_test.py"],
+    deps = [":distance_matrix_projector"],
+)
+
+py_library(
+    name = "latlong",
+    srcs = ["latlong.py"],
+    visibility = ["//visibility:public"],
+)
+
+py_test(
+    name = "latlong_test",
+    srcs = ["latlong_test.py"],
+    deps = [":latlong"],
+)

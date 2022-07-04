@@ -4,7 +4,7 @@
 import unittest
 from unittest.mock import MagicMock, patch
 
-from basebull.utils.cached_session import CachedSession
+from lib.util.cached_session import CachedSession
 
 
 TEST_URL = "http://localhost/debug"
@@ -13,7 +13,7 @@ TEST_URL = "http://localhost/debug"
 class TestCachedSession(unittest.TestCase):
     """Tests using a cached session methods."""
 
-    @patch("basebull.utils.cached_session.requests.session")
+    @patch("lib.util.cached_session.requests.session")
     def test_session_caching(self, mocked_requests_get):
         """Test main."""
         mocked_requests_get.return_value = MagicMock(get=MagicMock(return_value="Testing"))

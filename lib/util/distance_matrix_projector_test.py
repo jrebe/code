@@ -3,7 +3,7 @@
 
 import unittest
 
-from basebull.utils.distance_matrix_projector import distance_matrix_to_map
+from lib.util.distance_matrix_projector import distance_matrix_to_map
 
 
 class TestUtilDmmMethods(unittest.TestCase):
