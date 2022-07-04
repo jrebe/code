@@ -1,0 +1,26 @@
+load("@build_bazel_rules_nodejs//:index.bzl", "nodejs_binary", "nodejs_test")
+
+nodejs_binary(
+    name = "hello_world",
+    data = [
+        ":srcs",
+    ],
+    entry_point = "index.js",
+)
+
+filegroup(
+    name = "srcs",
+    srcs = glob(
+        [
+            "*.js",
+        ],
+    ),
+)
+
+nodejs_test(
+    name = "hello_world_test",
+    data = [
+        ":srcs",
+    ],
+    entry_point = "test.js",
+)

@@ -1,0 +1,8 @@
+load("@py_deps//:requirements.bzl", "requirement")
+
+py_binary(
+    name = "hello_world",
+    srcs = ["main.py"],
+    main = "main.py",
+    deps = ["@py_deps//pypi__click"],
+)
