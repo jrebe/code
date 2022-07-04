@@ -1,0 +1,31 @@
+load("@py_deps//:requirements.bzl", "requirement")
+
+py_library(
+    name = "google_maps",
+    srcs = ["google_maps.py"],
+    deps = [
+        "//lib/util/cached_session",
+        "@py_deps//pypi__Pillow"
+    ],
+)
+
+py_library(
+    name = "google_maps_test",
+    srcs = ["google_maps_test.py"],
+    deps = [":google_maps"],
+)
+
+py_library(
+    name = "static_map",
+    srcs = ["static_map.py"],
+    deps = [
+        "//lib/util/cached_session",
+        "@py_deps//pypi__Pillow"
+    ],
+)
+
+py_library(
+    name = "static_map_test",
+    srcs = ["static_map_test.py"],
+    deps = [":static_map"],
+)
