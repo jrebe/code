@@ -1,5 +1,3 @@
-load("@py_deps//:requirements.bzl", "requirement")
-
 py_library(
     name = "google_maps",
     srcs = ["google_maps.py"],

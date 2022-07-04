@@ -1,0 +1,42 @@
+py_library(
+    name = "ballpark",
+    srcs = ["ballpark.py"],
+    visibility = ["//visibility:public"],
+    deps = [
+        "//lib/map:static_map",
+        "//lib/util:distance_matrix_projector",
+        "//lib/util:latlong",
+        "@py_deps//pypi__pandas",
+    ],
+)
+
+py_test(
+    name = "ballpark_test",
+    srcs = ["ballpark_test.py"],
+    deps = [
+        ":ballpark",
+        "@py_deps//pypi__numpy",
+    ],
+)
+
+py_library(
+    name = "schedule",
+    srcs = ["schedule.py"],
+    visibility = ["//visibility:public"],
+    data = [
+        "//data/baseball:mlb_schedule_2020",
+    ],
+    deps = [
+        "@py_deps//pypi__pandas",
+    ],
+)
+
+# TODO(rebej) Fix handling of schedule to take filepath
+py_test(
+    name = "schedule_test",
+    srcs = ["schedule_test.py"],
+    deps = [":schedule"],
+    tags = [
+        "manual",
+    ]
+)

@@ -16,3 +16,27 @@ py_test(
     srcs = ["cached_session_test.py"],
     deps = [":cached_session"],
 )
+
+py_library(
+    name = "distance_matrix_projector",
+    srcs = ["distance_matrix_projector.py"],
+    visibility = ["//visibility:public"],
+)
+
+py_test(
+    name = "distance_matrix_projector_test",
+    srcs = ["distance_matrix_projector_test.py"],
+    deps = [":distance_matrix_projector"],
+)
+
+py_library(
+    name = "latlong",
+    srcs = ["latlong.py"],
+    visibility = ["//visibility:public"],
+)
+
+py_test(
+    name = "latlong_test",
+    srcs = ["latlong_test.py"],
+    deps = [":latlong"],
+)

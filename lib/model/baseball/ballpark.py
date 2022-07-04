@@ -7,9 +7,9 @@ import pprint
 
 import pandas as pd
 
-import basebull.utils.latlong as latlong
-from basebull.utils.distance_matrix_projector import distance_matrix_to_map
-from basebull.view.static_map import FEATURE_SEPARATOR
+import lib.util.latlong as latlong
+from lib.util.distance_matrix_projector import distance_matrix_to_map
+from lib.map.static_map import FEATURE_SEPARATOR
 
 
 # Fix this

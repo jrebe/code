@@ -1,0 +1,18 @@
+
+filegroup(
+    name = "distance_matrix_results",
+    srcs = ["distance_matrix_results.txt"],
+    visibility = ["//visibility:public"],
+)
+
+filegroup(
+    name = "baseball_ballparks",
+    srcs = ["baseball_ballparks.csv"],
+    visibility = ["//visibility:public"],
+)
+
+filegroup(
+    name = "mlb_schedule_2020",
+    srcs = ["schedule_mlb_2020.csv"],
+    visibility = ["//visibility:public"],
+)

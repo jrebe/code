@@ -5,20 +5,20 @@ import unittest
 
 import numpy as np
 
-import basebull.model.ballparks as ballparks
+import lib.model.baseball.ballpark as ballpark
 
 
-class TestModelBallparksModel(unittest.TestCase):
-    """Tests the ballparks model."""
+class TestModelBallparkModel(unittest.TestCase):
+    """Tests the ballpark model."""
 
     def test_create_model(self):
         """Test creating model."""
-        parks_data = ballparks.Ballparks()
+        parks_data = ballpark.Ballparks()
         self.assertIsNotNone(parks_data)
 
     def test_interact_with_ballparks_model(self):
         """Test interaction with model."""
-        parks_data = ballparks.Ballparks()
+        parks_data = ballpark.Ballparks()
         self.assertIsNotNone(parks_data.parks_list)
         self.assertIsInstance(parks_data.parks_list, list)
         self.assertEqual(parks_data.park_at_index(0), "Anaheim, CA")
@@ -27,7 +27,7 @@ class TestModelBallparksModel(unittest.TestCase):
 
     def test_distance_matrix(self):
         """Test interaction with model."""
-        parks_data = ballparks.Ballparks()
+        parks_data = ballpark.Ballparks()
         distance_matrix = parks_data.direct_distance_matrix()
         self.assertIsNotNone(distance_matrix)
         self.assertEqual(round(np.array(parks_data.direct_distance_matrix()).sum()), 1620201)
@@ -38,14 +38,14 @@ class TestModelBallparkModel(unittest.TestCase):
 
     def test_create_model(self):
         """Test creating model."""
-        fenway = ballparks.Ballpark(
+        fenway = ballpark.Ballpark(
             ["BOS", "Boston Red Sox", "Fenway Park", "Boston, MA", 42.346619, -71.096961, "#BD3039", "ALE"]
         )
         self.assertIsNotNone(fenway)
 
     def test_interact_with_ballparks_model(self):
         """Test interaction with model."""
-        fenway = ballparks.Ballpark(
+        fenway = ballpark.Ballpark(
             ["BOS", "Boston Red Sox", "Fenway Park", "Boston, MA", 42.346619, -71.096961, "#BD3039", "ALE"]
         )
         self.assertEqual(fenway.team, "Boston Red Sox")
