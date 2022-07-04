@@ -1,0 +1,6 @@
+TODO
+----
+Write blog post about why this project exists.
+Write the model for teams, schedule, games, dates, and costs.
+Make it loadable from config
+Get coverage back to green & add tests for optimizers/session logic
