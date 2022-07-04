@@ -3,13 +3,15 @@ load("@py_deps//:requirements.bzl", "requirement")
 py_library(
     name = "google_maps",
     srcs = ["google_maps.py"],
+    visibility = ["//visibility:public"],
     deps = [
-        "//lib/util/cached_session",
-        "@py_deps//pypi__Pillow"
+        "//lib/util:cached_session",
+        "@py_deps//pypi__googlemaps",
+        "@py_deps//pypi__pillow",
     ],
 )
 
-py_library(
+py_test(
     name = "google_maps_test",
     srcs = ["google_maps_test.py"],
     deps = [":google_maps"],
@@ -18,13 +20,15 @@ py_library(
 py_library(
     name = "static_map",
     srcs = ["static_map.py"],
+    visibility = ["//visibility:public"],
     deps = [
-        "//lib/util/cached_session",
-        "@py_deps//pypi__Pillow"
+        ":google_maps",
+        "//lib/util:cached_session",
+        "@py_deps//pypi__pillow",
     ],
 )
 
-py_library(
+py_test(
     name = "static_map_test",
     srcs = ["static_map_test.py"],
     deps = [":static_map"],

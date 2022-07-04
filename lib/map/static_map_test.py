@@ -30,7 +30,7 @@ class TestUtilGoogleMaps(unittest.TestCase):
         self.assertIsNotNone(features_url)
         self.assertEqual(str(features_url.url), features_string)
 
-    @patch("lib.map.util.cached_session.CachedSession.get")
+    @patch("lib.util.cached_session.CachedSession.get")
     @patch("PIL.ImageFile.Parser")
     def test_get_static_map(self, mock_image, mock_get):
         """Test static map."""

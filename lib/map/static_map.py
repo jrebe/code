@@ -6,8 +6,8 @@ import urllib.parse
 
 from PIL import ImageFile
 
-from basebull.utils.cached_session import CachedSession
-from basebull.utils.google_maps import get_api_key
+from lib.map.google_maps import get_api_key
+from lib.util.cached_session import CachedSession
 
 
 PARAMETER_SEPARATOR = "&"

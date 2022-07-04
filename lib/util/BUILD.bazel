@@ -3,6 +3,7 @@ load("@py_deps//:requirements.bzl", "requirement")
 py_library(
     name = "cached_session",
     srcs = ["cached_session.py"],
+    visibility = ["//visibility:public"],
     deps = [
         "@py_deps//pypi__cachecontrol",
         "@py_deps//pypi__lockfile",
