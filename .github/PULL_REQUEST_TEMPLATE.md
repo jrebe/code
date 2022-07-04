@@ -1,5 +1,8 @@
-### Description 
+## What does this change do?
 
-#### References
+## Github Issue Number?
 
-- _Github Issue Ref:_
+## Merge Checklist
+- [ ] Summary is written in imperative mood
+- [ ] Pre-merge checks pass
+- [ ] Commits Squashed
